@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2013-03-25 23:36+0200\n"
-"Last-Translator: protx <lars.hardy@gmail.com>\n"
+"Last-Translator: AsgerHB <asgerhb@gmail.com>\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -15,59 +15,59 @@ msgid "%s is untagged in multiple VLANs!"
 msgstr ""
 
 msgid "(%d minute window, %d second interval)"
-msgstr "(%d minutters vindu, %d sekunds intervall)"
+msgstr "(%d minutters vindue, %d sekunds interval)"
 
 msgid "(%s available)"
-msgstr "(%s Tilgjengelig)"
+msgstr "(%s Tilgængelig)"
 
 msgid "(empty)"
 msgstr "(tom)"
 
 msgid "(no interfaces attached)"
-msgstr "(ingen grensesnitt tilknyttet)"
+msgstr "(ingen interfaces tilknyttet)"
 
 msgid "-- Additional Field --"
-msgstr "-- Tilleggs Felt --"
+msgstr "-- Ekstra Felt --"
 
 msgid "-- Please choose --"
-msgstr "-- Vennligst velg --"
+msgstr "-- Vælg venligst --"
 
 msgid "-- custom --"
-msgstr "-- egendefinert --"
+msgstr "-- brugerdefineret --"
 
 msgid "-- match by device --"
-msgstr ""
+msgstr "-- match efter enhed --"
 
 msgid "-- match by label --"
-msgstr ""
+msgstr "-- match efter etiket --"
 
 msgid "1 Minute Load:"
-msgstr "1 minutts belastning:"
+msgstr "1 Minuts belastning:"
 
 msgid "15 Minute Load:"
-msgstr "15 minutters belastning:"
+msgstr "15 Minutters Belastning:"
 
 msgid "464XLAT (CLAT)"
 msgstr ""
 
 msgid "5 Minute Load:"
-msgstr "5 minutters belastning:"
+msgstr "5 Minutters Belastning:"
 
 msgid "<abbr title=\"Basic Service Set Identifier\">BSSID</abbr>"
 msgstr "<abbr title=\"Basic Service Set Identifier\">BSSID</abbr>"
 
 msgid "<abbr title=\"Domain Name System\">DNS</abbr> query port"
-msgstr "<abbr title=\"Domain Name System\">DNS</abbr> spørre port"
+msgstr "<abbr title=\"Domain Name System\">DNS</abbr> forespørgsels-port"
 
 msgid "<abbr title=\"Domain Name System\">DNS</abbr> server port"
-msgstr "<abbr title=\"Domain Name System\">DNS</abbr> server port"
+msgstr "<abbr title=\"Domain Name System\">DNS</abbr> server-port"
 
 msgid ""
 "<abbr title=\"Domain Name System\">DNS</abbr> servers will be queried in the "
 "order of the resolvfile"
 msgstr ""
-"<abbr title=\"Domain Name System\">DNS</abbr> servere skal følge rekkefølgen "
-"i oppslagsfilen ved spørringer"
+"<abbr title=\"Domain Name System\">DNS</abbr>-servere vil modtage "
+"forespørgsler i den rækkefølge de forekommer i resolve-filen"
 
 msgid "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
 msgstr "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
@@ -79,14 +79,14 @@ msgid "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Gateway"
 msgstr "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Gateway"
 
 msgid "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Netmask"
-msgstr "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Nettmaske"
+msgstr "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Netmaske"
 
 msgid ""
 "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Address or Network "
 "(CIDR)"
 msgstr ""
 "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Adresse eller "
-"Nettverk (CIDR)"
+"Netværk (CIDR)"
 
 msgid "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Gateway"
 msgstr "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Gateway"
@@ -95,7 +95,7 @@ msgid "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Suffix (hex)"
 msgstr ""
 
 msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> Configuration"
-msgstr "<abbr title=\"Light Emitting Diode\">LED</abbr> Konfigurasjon"
+msgstr "<abbr title=\"Light Emitting Diode\">LED</abbr> Konfiguration"
 
 msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> Name"
 msgstr "<abbr title=\"Light Emitting Diode\">LED</abbr> Navn"
@@ -107,18 +107,18 @@ msgid ""
 "<abbr title=\"maximal\">Max.</abbr> <abbr title=\"Dynamic Host Configuration "
 "Protocol\">DHCP</abbr> leases"
 msgstr ""
-"Maksimalt antall <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</"
-"abbr> leier"
+"<abbr title=\"Maksimal\">Maks.</abbr> <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</"
+"abbr>-leases"
 
 msgid ""
 "<abbr title=\"maximal\">Max.</abbr> <abbr title=\"Extension Mechanisms for "
 "Domain Name System\">EDNS0</abbr> packet size"
 msgstr ""
 "<abbr title=\"Maksimal\">Maks.</abbr> <abbr title=\"Extension Mechanisms for "
-"Domain Name System\">EDNS0</abbr> pakke størrelse"
+"Domain Name System\">EDNS0</abbr> pakkestørrelse"
 
 msgid "<abbr title=\"maximal\">Max.</abbr> concurrent queries"
-msgstr "<abbr title=\"Maksimal\">Maks.</abbr> samtidige spørringer"
+msgstr "<abbr title=\"Maksimal\">Maks.</abbr> samtidige forespørgsler"
 
 msgid "<abbr title='Pairwise: %s / Group: %s'>%s - %s</abbr>"
 msgstr "<abbr title='Parvis: %s / Gruppe: %s'>%s - %s</abbr>"
@@ -145,7 +145,7 @@ msgid "AR Support"
 msgstr "AR Støtte"
 
 msgid "ARP retry threshold"
-msgstr "APR terskel for nytt forsøk"
+msgstr "APR tærskel for nyt forsøg"
 
 msgid "ATM (Asynchronous Transfer Mode)"
 msgstr ""
@@ -155,12 +155,12 @@ msgstr "<abbr title=\"Asynchronous Transfer Mode\">ATM</abbr> Broer"
 
 msgid "ATM Virtual Channel Identifier (VCI)"
 msgstr ""
-"<abbr title=\"Asynchronous Transfer Mode\">ATM</abbr> Virtuell kanal "
+"<abbr title=\"Asynchronous Transfer Mode\">ATM</abbr> Virtuel kanal "
 "identifikator <abbr title=\"Virtual Channel Identifier\">(VCI)</abbr>"
 
 msgid "ATM Virtual Path Identifier (VPI)"
 msgstr ""
-"<abbr title=\"Asynchronous Transfer Mode\">ATM</abbr> Virtuell plasserings "
+"<abbr title=\"Asynchronous Transfer Mode\">ATM</abbr> Virtuel placerings-"
 "identifikator <abbr title=\"Virtual Path Identifier\">(VPI)</abbr>"
 
 msgid ""
@@ -168,12 +168,12 @@ msgid ""
 "Linux network interfaces which can be used in conjunction with DHCP or PPP "
 "to dial into the provider network."
 msgstr ""
-"ATM broer viser innkapslede ethernet i AAL5 forbindelser som virtuelle Linux-"
-"nettverk grensesnitt, dette kan brukes sammen med DHCP eller PPP for å koble "
-"seg mot en leverandørs nettverk."
+"<abbr title=\"Asynchronous Transfer Mode\">ATM</abbr>-Broer eksponerer indkapslet"
+"ethernet i AAL5-forbindelser som virtuelle Linux-netværksinterfaces, som kan"
+"bruges sammen med DHCP eller PP for at koble sig på en leverandørs netværk."
 
 msgid "ATM device number"
-msgstr "<abbr title=\"Asynchronous Transfer Mode\">ATM</abbr> enhetsnummer"
+msgstr "<abbr title=\"Asynchronous Transfer Mode\">ATM</abbr> enhedsnummer"
 
 msgid "ATU-C System Vendor ID"
 msgstr ""
@@ -182,10 +182,10 @@ msgid "AYIYA"
 msgstr ""
 
 msgid "Access Concentrator"
-msgstr "Tilgangskonsentrator"
+msgstr "Tilgangskoncentrator"
 
 msgid "Access Point"
-msgstr "Aksesspunkt"
+msgstr "Adgangspunkt"
 
 msgid "Action"
 msgstr "Handling"
@@ -194,7 +194,7 @@ msgid "Actions"
 msgstr "Handlinger"
 
 msgid "Activate this network"
-msgstr "Aktiver dette nettverket"
+msgstr "Aktiver dette netværk"
 
 msgid "Active <abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Routes"
 msgstr "Aktive <abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Ruter"
@@ -206,90 +206,91 @@ msgid "Active Connections"
 msgstr "Aktive Tilkoblinger"
 
 msgid "Active DHCP Leases"
-msgstr "Aktive DHCP Leier"
+msgstr "Aktive DHCP-leases"
 
 msgid "Active DHCPv6 Leases"
-msgstr "Aktive DHCPv6 Leier"
+msgstr "Aktive DHCPv6-leases"
 
 msgid "Ad-Hoc"
-msgstr "Ad-Hoc (Uavhengig)"
+msgstr "<abbr title=\"Oprettet til formålet\">Ad-Hoc</abbr>"
 
 msgid "Add"
-msgstr "Legg til"
+msgstr "Tilføj"
 
 msgid "Add local domain suffix to names served from hosts files"
-msgstr "Legg det lokale domenesuffikset til navn utgitt fra vertsfiler"
+msgstr "Læg det lokale domæne-suffiks til navne uddelt fra <em>hosts</em>-filer"
 
 msgid "Add new interface..."
-msgstr "Legg til grensesnitt..."
+msgstr "Tilføj nyt interface..."
 
 msgid "Additional Hosts files"
-msgstr "Tilleggs vertsfiler"
+msgstr "Yderligere <em>Hosts</em>-filer"
 
 msgid "Additional servers file"
-msgstr ""
+msgstr "Yderligere <em>Servers</em>-filer"
 
 msgid "Address"
 msgstr "Adresse"
 
 msgid "Address to access local relay bridge"
-msgstr "Adresse for tilgang til lokal relébro"
+msgstr "Adresse for tilgang til lokal relæ-bro"
 
 msgid "Administration"
-msgstr "Administrasjon"
+msgstr "Administration"
 
 msgid "Advanced Settings"
-msgstr "Avanserte Innstillinger"
+msgstr "Avancerede Indstillinger"
 
 msgid "Aggregate Transmit Power(ACTATP)"
 msgstr ""
 
 msgid "Alert"
-msgstr "Varsle"
+msgstr "Advarsel"
 
 msgid ""
 "Allocate IP addresses sequentially, starting from the lowest available "
 "address"
-msgstr ""
+msgstr "Alloker IP-adresser sekventielt, med de lavest tilgængelige først"
 
 msgid "Allocate IP sequentially"
-msgstr ""
+msgstr "Alloker IP-adresser sekventielt"
 
 msgid "Allow <abbr title=\"Secure Shell\">SSH</abbr> password authentication"
-msgstr "Tillat <abbr title=\"Secure Shell\">SSH</abbr> passord godkjenning"
+msgstr "Tillad <abbr title=\"Secure Shell\">SSH</abbr> passwordgodkendelse"
 
 msgid "Allow all except listed"
-msgstr "Tillat alle unntatt oppførte"
+msgstr "Tillad alle andre end angivne"
 
 msgid "Allow listed only"
-msgstr "Tillat kun oppførte"
+msgstr "Tillad kun angivne"
 
 msgid "Allow localhost"
-msgstr "Tillat lokalvert"
+msgstr "Tillad Localhost"
 
 msgid "Allow remote hosts to connect to local SSH forwarded ports"
-msgstr "Tillat eksterne verter å koble til lokale SSH videresendt porter"
+msgstr "Tillad eksterne hosts at forbinde til lokale SSH-forwardede porte"
 
 msgid "Allow root logins with password"
-msgstr "Tillat root pålogginger med passord"
+msgstr "Tillad root-logins med password"
 
 msgid "Allow the <em>root</em> user to login with password"
-msgstr "Tillat bruker <em>root</em> å logge inn med passord"
+msgstr "Tillad <em>root</em>-bruger at logge ind med password"
 
 msgid ""
 "Allow upstream responses in the 127.0.0.0/8 range, e.g. for RBL services"
-msgstr "Tillat oppstrøms svar i 127.0.0.0/8 nettet, f.eks for RBL tjenester"
+msgstr "Tillad upstream svar i 127.0.0.0/8 området, f.eks til RBL tjenester"
 
 msgid ""
 "Also see <a href=\"https://www.sixxs.net/faq/connectivity/?faq=comparison"
 "\">Tunneling Comparison</a> on SIXXS"
-msgstr ""
+msgstr "Se også <a href=\"https://www.sixxs.net/faq/connectivity/?faq=comparison"
+"\">Tunneling Comparison</a> fra SIXXS"
 
 msgid "Always announce default router"
-msgstr ""
+msgstr "Tilkendegiv altid standard-router"
 
 msgid "An additional network will be created if you leave this unchecked."
-msgstr "Et nytt nettverk vil bli opprettet hvis du tar bort haken."
+msgstr "Et nyt netværk vil blive oprettet hvis du fjerner fluebenet."
 
 msgid "Annex"
 msgstr ""
@@ -361,23 +362,23 @@ msgid "Antenna 2"
 msgstr "Antenne 2"
 
 msgid "Antenna Configuration"
-msgstr "Antennekonfigurasjon"
+msgstr "Antenne-konfiguration"
 
 msgid "Any zone"
-msgstr "Alle soner"
+msgstr "Alle zoner"
 
 msgid "Apply"
-msgstr "Bruk"
+msgstr "Anvend"
 
 msgid "Applying changes"
-msgstr "Utfører endringer"
+msgstr "Anvender ændringer"
 
 msgid ""
 "Assign a part of given length of every public IPv6-prefix to this interface"
 msgstr ""
 
 msgid "Assign interfaces..."
-msgstr "Tilknytt grensesnitt..."
+msgstr "Tilknyt interfaces..."
 
 msgid ""
 "Assign prefix parts using this hexadecimal subprefix ID for this interface."
@@ -387,7 +388,7 @@ msgid "Associated Stations"
 msgstr "Tilkoblede Klienter"
 
 msgid "Atheros 802.11%s Wireless Controller"
-msgstr "Atheros 802.11%s Trådløs Kontroller"
+msgstr "Atheros 802.11%s Trådløs Controller"
 
 msgid "Auth Group"
 msgstr ""
@@ -396,19 +397,20 @@ msgid "AuthGroup"
 msgstr ""
 
 msgid "Authentication"
-msgstr "Godkjenning"
+msgstr "Godkendelse"
 
 msgid "Authoritative"
 msgstr "Autoritativ"
 
 msgid "Authorization Required"
-msgstr "Autorisasjon er nødvendig"
+msgstr "Autorisation er nødvendig"
 
 msgid "Auto Refresh"
-msgstr "Automatisk oppdatering"
+msgstr "Automatisk opdatering"
 
 msgid "Automatic"
-msgstr ""
+msgstr
+ "Automatisk"
 
 msgid "Automatic Homenet (HNCP)"
 msgstr ""
@@ -429,13 +431,13 @@ msgid "Automount Swap"
 msgstr ""
 
 msgid "Available"
-msgstr "Tilgjengelig"
+msgstr "Tilgængelig"
 
 msgid "Available packages"
-msgstr "Tilgjengelige pakker"
+msgstr "Tilgængelige pakker"
 
 msgid "Average:"
-msgstr "Gjennomsnitt:"
+msgstr "Gennemsnit:"
 
 msgid "B43 + B43C"
 msgstr ""
@@ -450,34 +452,34 @@ msgid "BSSID"
 msgstr "BSSID"
 
 msgid "Back"
-msgstr "Tilbake"
+msgstr "Tilbage"
 
 msgid "Back to Overview"
-msgstr "Tilbake til oversikt"
+msgstr "Tilbage til Oversigt"
 
 msgid "Back to configuration"
-msgstr "Tilbake til konfigurasjon"
+msgstr "Tilbage til Konfiguration"
 
 msgid "Back to overview"
-msgstr "Tilbake til oversikt"
+msgstr "Tilbage til Oversigt"
 
 msgid "Back to scan results"
-msgstr "Tilbake til skanne resultat"
+msgstr "Tilbage til Scanningsresultater"
 
 msgid "Background Scan"
-msgstr "Bakgrunns Skanning"
+msgstr "Baggrunds-scanning"
 
 msgid "Backup / Flash Firmware"
-msgstr "Sikkerhetskopiering/Firmware oppgradering"
+msgstr "Sikkerhedskopiering/Firmware opgradering"
 
 msgid "Backup / Restore"
-msgstr "Sikkerhetskopi/Gjenoppretting"
+msgstr "Sikkerhedskopi/Genopretning"
 
 msgid "Backup file list"
-msgstr "Sikkerhetskopier filliste"
+msgstr "Sikkerhedskopier filliste"
 
 msgid "Bad address specified!"
-msgstr "Ugyldig adresse oppgitt!"
+msgstr "Ugyldig adresse angivet."
 
 msgid "Band"
 msgstr ""
@@ -490,9 +492,9 @@ msgid ""
 "configuration files marked by opkg, essential base files and the user "
 "defined backup patterns."
 msgstr ""
-"Nedenfor er listen med filer som blir sikkerthetskopiert. Listen består av "
-"konfigurasjonsfiler som er merket av opkg, essensielle enhets filer og andre "
-"filer valgt av bruker."
+"Nedenfor er listen med filer som bliver sikkerhedskopieret. Listen består af "
+"konfigurationsfiler som er mærket af opkg, essentielle enheds-filer og andre "
+"filer valgt af brugeren."
 
 msgid "Bind only to specific interfaces rather than wildcard address."
 msgstr ""
@@ -501,33 +503,35 @@ msgid "Bitrate"
 msgstr "Bitrate"
 
 msgid "Bogus NX Domain Override"
-msgstr "Overstyr falske NX Domener"
+msgstr "Bogus NX Domain Override"
 
 msgid "Bridge"
 msgstr "Bro"
 
 msgid "Bridge interfaces"
-msgstr "Sammenkoble grensesnitt"
+msgstr "Bro-interfaces"
 
 msgid "Bridge unit number"
-msgstr "Bro enhetsnummer"
+msgstr "Bro enhedsnummer"
 
 msgid "Bring up on boot"
-msgstr "Slå på ved oppstart"
+msgstr "Vis ved opstart"
 
 msgid "Broadcom 802.11%s Wireless Controller"
-msgstr "Broadcom 802.11%s Trådløs Kontroller"
+msgstr "Broadcom 802.11%s Trådløs Controller"
 
 msgid "Broadcom BCM%04x 802.11 Wireless Controller"
-msgstr "Broadcom BCM%04x 802.11 Trådløs Kontroller"
+msgstr "Broadcom BCM%04x 802.11 Trådløs Controller"
 
 msgid "Buffered"
-msgstr "Bufret"
+msgstr "Bufferet"
 
 msgid ""
 "Build/distribution specific feed definitions. This file will NOT be "
 "preserved in any sysupgrade."
 msgstr ""
+"Build/distributions-specifikke feed-definitioner. Denne fil "
+"bevares <em>ikke</em> i forbindelse med systemopgraderinger."
 
 msgid "Buttons"
 msgstr "Knapper"
@@ -536,37 +540,37 @@ msgid "CA certificate; if empty it will be saved after the first connection."
 msgstr ""
 
 msgid "CPU usage (%)"
-msgstr "CPU forbruk (%)"
+msgstr "CPU forbrug (%)"
 
 msgid "Cancel"
-msgstr "Avbryt"
+msgstr "Afbryd"
 
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 msgid "Chain"
-msgstr "Lenke"
+msgstr "Kæde"
 
 msgid "Changes"
-msgstr "Endringer"
+msgstr "Ændringer"
 
 msgid "Changes applied."
-msgstr "Endringer utført."
+msgstr "Ændringer udført."
 
 msgid "Changes the administrator password for accessing the device"
-msgstr "Endrer administrator passordet for tilgang til enheten"
+msgstr "Ændrer administrator-passwordet for tilgang til enheden"
 
 msgid "Channel"
 msgstr "Kanal"
 
 msgid "Check"
-msgstr "Kontroller"
+msgstr "Kontrollér"
 
 msgid "Check fileystems before mount"
-msgstr ""
+msgstr "Tjek filsystemer før der mountes"
 
 msgid "Checksum"
-msgstr "Kontrollsum"
+msgstr "Checksum"
 
 msgid ""
 "Choose the firewall zone you want to assign to this interface. Select "
@@ -574,72 +578,73 @@ msgid ""
 "fill out the <em>create</em> field to define a new zone and attach the "
 "interface to it."
 msgstr ""
-"Velg brannmur sonen du ønsker å knytte til dette grensesnittet. Velg "
-"<em>uspesifisert</em> for å fjerne grensesnittet fra den tilknyttede sonen. "
-"Eller fyll ut <em>Opprett</em> feltet for å definere en ny sone og tilknytte "
-"grensesnittet til det."
+"Vælg firewall-zonen som du ønsker at knytte til dette interface."
+"Vælg <em>uspecificeret</em> for at fjerne interfacet fra den tilknyttede zone, "
+"Eller udfyld <em>Opret</em>-feltet for at definere en ny zone og tilknytte "
+"interfacet til det."
 
 msgid ""
 "Choose the network(s) you want to attach to this wireless interface or fill "
 "out the <em>create</em> field to define a new network."
 msgstr ""
-"Velg det eller de nettverk du vil legge til dette trådløse grensesnittet, "
-"eller fyll ut <em>Opprett</em> feltet for å definere et nytt nettverk."
+"Vælg det eller de netværk du vil knytte til dette trådløse interface, eller"
+"eller udfyld <em>Opret</em>-feltet for at definere et nyt netværk."
 
 msgid "Cipher"
 msgstr "Krypteringsmetode"
 
 msgid "Cisco UDP encapsulation"
-msgstr ""
+msgstr "Cisco UDP indkapsling"
 
 msgid ""
 "Click \"Generate archive\" to download a tar archive of the current "
 "configuration files. To reset the firmware to its initial state, click "
 "\"Perform reset\" (only possible with squashfs images)."
 msgstr ""
-"Klikk \"Opprett arkiv\" for å laste ned et tar arkiv av de gjeldende "
-"konfigurasjons filer. For å nullstille firmwaren til opprinnelig tilstand, "
-"klikker du på \"Utfør nullstilling\" (kun mulig på squashfs firmwarer)."
+"Klik \"Opret arkiv\" for at downloade et .tar-arkiv med de gældende "
+"konfigurations-filer. "
+"For at nulstille firmwaren til oprindelig tilstand "
+"klikker du på \"Udfør nulstilling\" (kun mulig med squashfs firmwares)."
 
 msgid "Client"
 msgstr "Klient"
 
 msgid "Client ID to send when requesting DHCP"
-msgstr "Klient ID som sendes ved DHCP spørring"
+msgstr "Klient ID som sendes ved DHCP-forespørgsel"
 
 msgid ""
 "Close inactive connection after the given amount of seconds, use 0 to "
 "persist connection"
 msgstr ""
-"Lukk inaktiver tilkoblinger etter angitt antall sekunder, bruk 0 for en "
-"kontinuerlig tilkobling"
+"Luk inaktive forbindelser efter det angivne antal sekunder, "
+"brug 0 for vedholdende forbindelse."
 
 msgid "Close list..."
-msgstr "Lukk liste..."
+msgstr "Luk liste..."
 
 msgid "Collecting data..."
-msgstr "Henter data..."
+msgstr "Indsamler data..."
 
 msgid "Command"
 msgstr "Kommando"
 
 msgid "Common Configuration"
-msgstr "Vanlige Innstillinger"
+msgstr "Almindelig Konfiguration"
 
 msgid "Compression"
 msgstr "Komprimering"
 
 msgid "Configuration"
-msgstr "Konfigurasjon"
+msgstr "Konfiguration"
 
 msgid "Configuration applied."
-msgstr "Konfigurasjons endring utført."
+msgstr "Konfigurations udført."
 
 msgid "Configuration files will be kept."
-msgstr "Konfigurasjonsfiler vil bli bevart."
+msgstr "Konfigurationsfiler vil blive bevaret."
 
 msgid "Confirmation"
-msgstr "Bekreftelse"
+msgstr "Bekræftelse"
 
 msgid "Connect"
 msgstr "Koble til"
@@ -648,10 +653,10 @@ msgid "Connected"
 msgstr "Tilkoblet"
 
 msgid "Connection Limit"
-msgstr "Tilkoblingsgrense (antall)"
+msgstr "Grænse for Tilkoblinger"
 
 msgid "Connection to server fails when TLS cannot be used"
-msgstr ""
+msgstr "Forbindelse til server svigter når TLS ikke kan anvendes"
 
 msgid "Connections"
 msgstr "Tilkoblinger"
@@ -660,52 +665,54 @@ msgid "Country"
 msgstr "Land"
 
 msgid "Country Code"
-msgstr "Landskode"
+msgstr "Landekode"
 
 msgid "Cover the following interface"
-msgstr "Gjelder det følgende grensesnitt"
+msgstr "Gælder det følgende interface"
 
 msgid "Cover the following interfaces"
-msgstr "Gjelder de følgende grensesnitt"
+msgstr "Gælder de følgende interfaces"
 
 msgid "Create / Assign firewall-zone"
-msgstr "Opprett/Tildel brannmur sone"
+msgstr "Opret/Tildel firewall-zone"
 
 msgid "Create Interface"
-msgstr "Opprett Grensesnitt"
+msgstr "Opret Interface"
 
 msgid "Create a bridge over multiple interfaces"
-msgstr "Opprett en bro over flere grensesnitt"
+msgstr "Opret en bro over flere interfaces"
 
 msgid "Critical"
 msgstr "Kritisk"
 
 msgid "Cron Log Level"
-msgstr "Cron logg nivå"
+msgstr "<abbr title=\"Command Run On\">Cron</abbr>Log Niveau"
 
 msgid "Custom Interface"
-msgstr "Egendefinerte Grensesnitt"
+msgstr "Brugerdefineret Interface"
 
 msgid "Custom delegated IPv6-prefix"
-msgstr ""
+msgstr "Brugerdeligeret IPv6-præfiks"
 
 msgid ""
 "Custom feed definitions, e.g. private feeds. This file can be preserved in a "
 "sysupgrade."
 msgstr ""
+"Brugers feed-definitioner, e.g. private feeds. Denne fil kan "
+"bevares ved systemopgraderinger."
 
 msgid "Custom feeds"
-msgstr ""
+msgstr "Brugerdefinerede feeds"
 
 msgid ""
 "Customizes the behaviour of the device <abbr title=\"Light Emitting Diode"
 "\">LED</abbr>s if possible."
 msgstr ""
-"Tilpasser oppførselen til enhetens <abbr title=\"Light Emitting Diode\">LED</"
-"abbr>s om mulig."
+"Tilpasser om muligt opførselen til enhedens <abbr title=\"Light Emitting Diode\">LED</"
+"abbr>er."
 
 msgid "DHCP Leases"
-msgstr "DHCP Leier"
+msgstr "DHCP-Leases"
 
 msgid "DHCP Server"
 msgstr "DHCP Server"
@@ -720,10 +727,10 @@ msgid "DHCP-Options"
 msgstr "DHCP-Alternativer"
 
 msgid "DHCPv6 Leases"
-msgstr "DHCPv6 Leier"
+msgstr "DHCPv6-Leases"
 
 msgid "DHCPv6 client"
-msgstr ""
+msgstr "DHCPv6-klient"
 
 msgid "DHCPv6-Mode"
 msgstr ""
@@ -735,7 +742,7 @@ msgid "DNS"
 msgstr "DNS"
 
 msgid "DNS forwardings"
-msgstr "DNS videresendinger"
+msgstr "DNS videresendelser"
 
 msgid "DNS-Label / FQDN"
 msgstr ""
@@ -744,13 +751,13 @@ msgid "DNSSEC"
 msgstr ""
 
 msgid "DNSSEC check unsigned"
-msgstr ""
+msgstr "DNSSEC-check ikke underskrevet"
 
 msgid "DPD Idle Timeout"
 msgstr ""
 
 msgid "DS-Lite AFTR address"
-msgstr ""
+msgstr "DS-Lite AFTR adresse"
 
 msgid "DSL"
 msgstr ""
@@ -768,25 +775,25 @@ msgid "Data Rate"
 msgstr ""
 
 msgid "Debug"
-msgstr "Feilsøking"
+msgstr "Debug"
 
 msgid "Default %d"
 msgstr "Standard %d"
 
 msgid "Default gateway"
-msgstr "Standard gateway"
+msgstr "Standard-gateway"
 
 msgid "Default is stateless + stateful"
 msgstr ""
 
 msgid "Default route"
-msgstr ""
+msgstr "Standard-rute"
 
 msgid "Default state"
 msgstr "Standard tilstand"
 
 msgid "Define a name for this network."
-msgstr "Definer et navn for dette nettverket."
+msgstr "Definer et navn for dette netværk."
 
 msgid ""
 "Define additional DHCP options, for example "
@@ -886,7 +893,8 @@ msgstr ""
 msgid "Do not cache negative replies, e.g. for not existing domains"
 msgstr "Ikke cache negative svar, f.eks for ikke eksisterende domener"
 
-msgid "Do not forward requests that cannot be answered by public name servers"
+msgid
+ "Do not forward requests that cannot be answered by public name servers"
 msgstr ""
 "Ikke videresend forespørsler som ikke kan besvares med offentlige "
 "navneservere"
@@ -1384,7 +1392,8 @@ msgstr "IPv6 prefiks"
 msgid "IPv6 prefix length"
 msgstr "IPv6 prefikslengde"
 
-msgid "IPv6 routed prefix"
+msgid
+ "IPv6 routed prefix"
 msgstr ""
 
 msgid "IPv6-Address"
@@ -1842,7 +1851,8 @@ msgid "Mirror source port"
 msgstr ""
 
 msgid "Missing protocol extension for proto %q"
-msgstr "Mangler protokoll utvidelse for proto %q"
+msgstr "Mangler
+ protokoll utvidelse for proto %q"
 
 msgid "Mode"
 msgstr "Modus"
@@ -2358,7 +2368,8 @@ msgid "Radius-Accounting-Port"
 msgstr "Radius-Accounting-Port"
 
 msgid "Radius-Accounting-Secret"
-msgstr "Radius-Accounting-Secret"
+msgstr
+ "Radius-Accounting-Secret"
 
 msgid "Radius-Accounting-Server"
 msgstr "Radius-Accounting-Server"
@@ -2819,7 +2830,8 @@ msgstr "Send"
 msgid "Suppress logging"
 msgstr ""
 
-msgid "Suppress logging of the routine operation of these protocols"
+msgid
+ "Suppress logging of the routine operation of these protocols"
 msgstr ""
 
 msgid "Swap"
@@ -3121,7 +3133,8 @@ msgstr "Dette er systemets crontab, hvor planlagte oppgaver kan defineres."
 msgid ""
 "This is usually the address of the nearest PoP operated by the tunnel broker"
 msgstr ""
-"Dette er vanligvis adressen til nærmeste PoP som drives av tunell 'broker'"
+"Dette er vanligvis adressen
+ til nærmeste PoP som drives av tunell 'broker'"
 
 msgid ""
 "This list gives an overview over currently running system processes and "
@@ -3612,7 +3625,8 @@ msgstr "av"
 msgid "on"
 msgstr "på"
 
-msgid "open"
+msgid
+ "open"
 msgstr "åpen"
 
 msgid "overlay"
