@@ -15,6 +15,7 @@ LUCI_PKGARCH?=$(if $(realpath src/Makefile),,all)
 LUCI_LANG.ca=Català (Catalan)
 LUCI_LANG.cs=Čeština (Czech)
 LUCI_LANG.de=Deutsch (German)
+LUCI_LANG.da=Dansk (Danish)
 LUCI_LANG.el=Ελληνικά (Greek)
 LUCI_LANG.en=English
 LUCI_LANG.es=Español (Spanish)
