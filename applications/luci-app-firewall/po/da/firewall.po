@@ -4,6 +4,7 @@ msgstr ""
 "Last-Translator: protx <lars.hardy@gmail.com>\n"
 "Language: da\n"
 "Language-Team: Danish\n"
+#~ for easy translation, this is copied from Norwegian translation for a start
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
