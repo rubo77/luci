@@ -1,187 +1,184 @@
-
-
-
 ""
-"Definer flere DHCP valg, f.eks \"<code>192.168.2.1,192.168.2.2</code>\" som "
-"annonserer forskjellige DNS servere til klientene."
+"Definer yderligere DHCP muligheder, såsom \" <code> 192.168.2.1,192.168.2.2 </ code> \ "som"
+"Annoncerer forskellige DNS-servere til kunderne."
 
 "Fjern"
 
-"Fjern dette nettverket"
+"Fjern dette netværk"
 
 "Beskrivelse"
 
 "Design"
 
-"Destinasjon"
+"Destination"
 
-"Enhet"
+"Enhed"
 
-"Enhet Konfigurasjon"
-
-""
+"Device Configuration"
 
 ""
 
-"Nettverksdiagnostikk"
+""
+
+"Netværksdiagnostik"
 
 ""
 
 "Katalog"
 
-"Deaktiver"
+"Disable"
 
 
 ""
-"Deaktiver <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr> "
-"for dette nettverket."
+"Disable <abbr title = \" Dynamic Host Configuration Protocol \ "> DHCP </ abbr>"
+"For dette netværk."
 
-"Deaktiver DNS oppsett"
-
-""
-
-"Deaktiver HW-Beacon timer"
-
-"Deaktivert"
-
-"Forkast oppstrøms RFC1918 svar"
-
-"Viser bare pakker som inneholder"
-
-"Avstand Optimalisering"
-
-"Avstand i meter til det medlem av nettverket som er lengst unna."
+"Deaktiver DNS opsætning"
 
 ""
 
-"Antennevariasjon"
+"Disable HW Beacon timer"
 
-""
-"Dnsmasq er en kombinert <abbr title=\"Dynamic Host Configuration Protocol"
-"\">DHCP</abbr>-Server og <abbr title=\"Domain Navn System\">DNS</abbr>-"
-"Fremsender for <abbr title =\"Network Address Translation\">NAT</abbr> "
-"brannmurer"
+"Disabled"
 
-"Ikke cache negative svar, f.eks for ikke eksisterende domener"
+"Kassér opstrøms RFC1918 svar"
 
-""
-"Ikke videresend forespørsler som ikke kan besvares med offentlige "
-"navneservere"
+"Viser kun pakker, der indeholder"
 
-"Ikke videresend reverserte oppslag for lokale nettverk"
+"Distance Optimering"
 
-"Ikke send probe svar"
-
-"Domene kreves"
-
-"Domene hviteliste"
-
-""
-"Ikke videresend <abbr title=\"Domain Name System\">DNS</abbr>-Forespørsler "
-"uten <abbr title=\"Domain Name System\">DNS</abbr>-Navn"
-
-"Last ned og installer pakken"
-
-"Last ned sikkerhetskopi"
-
-"Dropbear Instans"
-
-""
-"Dropbear tilbyr <abbr title=\"Secure Shell\">SSH</abbr>-nettverks shell "
-"tilgang og en integrert <abbr title=\"Secure Copy\">SCP</abbr> server"
+"Afstand i meter til medlem af netværket, der er længst væk."
 
 ""
 
+"Aerial Variation"
+
 ""
-"Dynamisk <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>"
+"Dnsmasq er en kombineret <abbr title = \" Dynamic Host Configuration Protocol "
+"\"> DHCP </ abbr> server på og <abbr title = \ "Domain Name System \"> DNS </ abbr> - "
+"Indtil afsendelse <abbr title = \" Network Address Translation \ "> NAT </ abbr>"
+"Firewalls"
+
+"Du skal ikke cache negative reaktioner, for eksempel til ikke-eksisterende domæner"
+
+""
+"Gør ikke videresende anmodninger, der ikke kan besvares med offentligheden"
+"navn servere"
+
+"Du skal ikke frem reverse opslag til lokale netværk"
+
+"Du skal ikke sende sonde svar"
+
+"Domæne er påkrævet"
+
+"Domæne whitelist"
+
+""
+"Ikke Forward <abbr title = \" Domain Name System \ "> DNS </ abbr> Anmodning"
+"Uden <abbr title = \" Domain Name System \ "> DNS </ abbr> -Din navn"
+
+"Download og installere pakken"
+
+"Hent sikkerhedskopi"
+
+"Drop Bjørn Instans"
+
+""
+"Drop Bjørn tilbud <abbr title = \" Secure Shell \ "> SSH </ abbr> netværk shell"
+"Adgang og en integreret <abbr title = \" Secure Copy \ "> SCP </ abbr> server"
+
+""
+
+""
+"Dynamisk <abbr title = \" Dynamic Host Configuration Protocol \ "> DHCP </ abbr>"
 
 "Dynamisk tunnel"
 
 
 ""
-"Dynamisk tildeling av DHCP adresser til klienter. Om deaktivert, kan en kun "
-"bruke klienter med statisk leie."
+"Dynamisk allokering af DHCP-adresser til klienter. Hvis deaktiveret, blot"
+"Brug klienter med statisk lease."
 
 ""
 
 "EAP-metode"
 
-"Endre"
+"Change"
 
 
 ""
 
-"Endre dette grensesnittet"
+"Ændring af denne grænseflade"
 
-"Endre dette nettverket"
+"Ændre dette netværk"
 
-"Krisesituasjon"
+"Krisesituation"
 
 "Aktiver"
 
-"Aktiver <abbr title=\"Spanning Tree Protocol\">STP</abbr>"
+"Aktiver <abbr title = \" Spanning Tree Protocol \ "> STP </ abbr>"
 
-"Aktiver HE,net dynamisk endepunkt oppdatering"
+"Aktiver HE, netto dynamisk endpoint opdatering"
 
-"Aktiver IPv6 på PPP lenke"
+"Aktiver IPv6 PPP link"
 
-"Aktiver Jumbo Frames gjennomgang"
+"Aktiver Jumbo Frames anmeldelse"
 
-"Aktiver NTP klient"
-
-""
-
-"Aktiver TFTP server"
-
-"Aktiver VLAN funksjonalitet"
+"Aktiver NTP-klient"
 
 ""
 
-"Aktiver 'læring' og 'aldring'"
+"Aktiver TFTP Server"
+
+"Aktiver VLAN-funktionalitet"
+
+""
+
+"Aktiver" læring "og" aldring ""
 
 ""
 
 ""
 
-"Aktiver dette monteringspunktet"
+"Aktiver denne mount point"
 
-"Aktiver denne swapenhet"
+"Aktivér denne swap-enhed"
 
-"Aktiver/Deaktiver"
+"Aktiver / Deaktiver"
 
-"Aktivert"
+"Aktiveret"
 
-"Aktiverer Spanning Tree Protocol på denne broen"
+"Aktiverer Spanning Tree Protocol på denne bro"
 
-"Innkapsling modus"
+"Indkapsling Mode"
 
 "Kryptering"
 
-"Sletter..."
+"Sletning ..."
 
-"Feil"
-
-""
-
-"Ethernet Tilslutning"
-
-"Ethernet Svitsj"
+"Forkert"
 
 ""
 
-"Utvid vertsliste"
+"Ethernet forbindelse"
 
-"Utgår"
-
-#, fuzzy
-
-"Utløpstid på leide adresser, minimum er 2 minutter (<code>2m</code>)."
+"Ethernet switching"
 
 ""
 
-"Ekstern systemlogg server"
+"Udvid host liste"
 
-"Ekstern systemlogg server port"
+"Udløber"
+
+#, Fuzzy
+
+"Udløbsdato for lejede adresser minimum er 2 minutter (<code> 2m </ code>)."
+
+""
+
+"Remote Syslog server"
+
+"Remote Syslog server port"
 
 ""
 
@@ -189,79 +186,79 @@
 
 "Fast Frames"
 
-"Fil"
+"File"
 
-"Filnavn fra boot image annonsert til klienter"
+"Filnavn af boot image annonceret til kunder"
 
-"Filsystem"
+"File System"
 
 "Filter"
 
-"Filtrer private"
+"Filter privat"
 
-"Filtrer ubrukelige"
+"Filter ubrugelig"
 
-
-""
-
-"Finn og koble til nettverk"
-
-"Finn pakke"
-
-"Fullfør"
-
-"Brannmur"
-
-"Brannmur Innstillinger"
-
-"Brannmur Status"
 
 ""
 
-"Firmware Versjon"
+"Find og oprette forbindelse til netværk"
 
-"Fast kilde port for utgående DNS-spørringer"
+"Find pakke"
+
+"Afslut"
+
+"Firewall"
+
+"Firewall indstillinger"
+
+"Firewall Status"
+
+""
+
+"Firmware Version"
+
+"Rigtig kilde port til udgående DNS-forespørgsler"
 
 "Firmware Oppradering"
 
-"Flash firmware..."
+"Flash firmware ..."
 
-"Flash nytt firmware image"
+"Flash ny firmware image"
 
-"Flash operasjoner"
+"Flash operationer"
 
-"Flasher..."
+"Flasher ..."
 
-"Bruk"
+"Brug"
 
-"Bruk CCMP (AES)"
-
-""
-"Bruk DHCP i dette nettverket, selv om en annen DHCP server er oppdaget."
-
-"Bruk TKIP"
-
-"Bruk TKIP og CCMP (AES)"
+"Brug CCMP (AES)"
 
 ""
+"Brug DHCP på dette netværk, selv hvis der registreres en anden DHCP server."
+
+"Brug TKIP"
+
+"Brug TKIP og CCMP (AES)"
 
 ""
 
-"Videresend DHCP trafikk"
+""
+
+"Forward DHCP trafik"
 
 ""
 
-"Videresend kringkastingstrafikk"
+"Forward broadcast-trafik"
 
-"Videresending modus"
+"Relæ tilstand"
 
-"Fragmenterings Terskel"
+"fragment Threshold Rings"
 
 "Frame Bursting"
 
-"Ledig"
+"Idle"
 
-"Ledig plass"
+"Free Space"
 
 "GHz"
 
@@ -269,41 +266,41 @@
 
 "Gateway"
 
-"Gateway porter"
+"Gateway porte"
 
-"Generelle Innstillinger"
+"Generelle indstillinger"
 
-"Generelt Oppsett"
-
-""
-
-""
-
-"Opprett arkiv"
-
-"Generell 802.11%s Trådløs Kontroller"
-
-"Det oppgitte passordet var ikke korrekt, passord ble ikke endret!"
+"General Setup"
 
 ""
 
 ""
 
-"Gå til passord konfigurasjon..."
+"Opret arkiv"
 
-"Gå til relevant konfigurasjonen side"
+"Samlet 802.11% s Trådløse funktioner"
+
+"Den angivne adgangskode ikke var korrekt, adgangskode blev ikke ændret!"
 
 ""
 
 ""
 
-"HE.net passord"
+"Gå til konfigurationen adgangskode ..."
+
+"Gå til den relevante konfigurationsfil"
+
+""
+
+""
+
+"HE.net password"
 
 ""
 
 "Behandler"
 
-"Slå av"
+"Turn Off"
 
 ""
 
@@ -311,67 +308,67 @@
 
 
 ""
-"Her kan du konfigurere grunnleggende aspekter av enheten som f.eks. dens "
-"vertsnavn eller tidssone."
+"Her kan du konfigurere grundlæggende aspekter af enhedens f.eks. Dens"
+"Værtsnavn eller tidszone."
 
 
 ""
-"Her kan du lime inn felles SSH-nøkler(en per linje), for SSH godkjenning."
+"Her kan du indsætte offentlige SSH-nøgler (en pr linje) for SSH-godkendelse."
 
-"Hermes 802.11b Trådløs Kontroller"
+"Hermes 802.11b Wireless styrer"
 
-"Skjul <abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
-
-""
-
-"Vertsoppføringer"
-
-"Verts utløpstid"
-
-""
-"Verts-<abbr title=\"Internet Protocol Address\">IP</abbr> eller Nettverk"
-
-"Vertsnavn"
-
-"Vertsnavn som sendes ved DHCP forespørsel"
-
-"Vertsnavn"
+"Skjul <abbr title = \" Extended Service Set Identifier \ "> ESSID </ abbr>"
 
 ""
 
+"Host Entries"
+
+"Verts udløbet"
+
+""
+"Host <abbr title = \" Internet Protocol Address \ "> IP </ abbr> eller netværk"
+
+"Host Name"
+
+"Host navn sendt af DHCP-forespørgsel"
+
+"Host Name"
+
 ""
 
-"IP adresse"
+""
+
+"IP-adresse"
 
 "IPv4"
 
-"IPv4 Brannmur"
+"IPv4 Firewall"
 
 "IPv4 WAN Status"
 
-"IPv4 adresse"
+"IPv4-adresse"
 
 "IPv4 og IPv6"
 
 ""
 
-"IPv4 kringkasting"
+"IPv4 broadcast"
 
 "IPv4 gateway"
 
-"IPv4 nettmaske"
+"IPv4-netmaske"
 
 "Kun IPv4"
 
 ""
 
-"IPv4 prefikslengde"
+"IPv4 præfiks længde"
 
-"IPv4-Adresse"
+"IPv4-adresse"
 
 "IPv6"
 
-"IPv6 Brannmur"
+"IPv6 Firewall"
 
 ""
 
@@ -381,7 +378,7 @@
 
 "IPv6 WAN Status"
 
-"IPv6 adresse"
+"IPv6-adresse"
 
 ""
 
@@ -389,21 +386,21 @@
 
 ""
 
-"IPv6 gateway"
+"IPv6-gateway"
 
 "Kun IPv6"
 
-"IPv6 prefiks"
+"IPv6 præfikset"
 
-"IPv6 prefikslengde"
+"IPv6 præfiks længde"
 
 ""
 
-"IPv6-Adresse"
+"IPv6-adresse"
 
-"IPv6-i-IPv4 (RFC4213)"
+"IPv6 i IPv4 (RFC4213)"
 
-"IPv6-over-IPv4 (6rd)"
+"IPv6-over-IPv4 (6RD)"
 
 "IPv6-over-IPv4 (6til4)"
 
@@ -414,149 +411,149 @@
 ""
 
 
-"Hvis oppgitt vil denne enhet monteres ut fra dens UUID"
+"Hvis angivet, er denne enhed monteret fra dets UUID"
 
 
-"Hvis oppgitt vil denne enheten bli montert utfra dens Volumnavn"
+"Hvis givet denne enhed vil blive samlet på grundlag af sin Volume Name"
 
-"Dersom ikke avmerket blir ingen standard rute konfigurert"
+"Hvis du ikke vælger vil ikke være nogen standard rute konfigureret"
 
-"Dersom ikke avmerket blir de annonserte DNS server adresser ignorert"
-
-""
-"Om ruterens fysiske minne er utilstrekkelig, ubrukte data kan midlertidig "
-"gjøres om til en swap-enhet som gir deg mere tilgjengelig <abbr title="
-"\"Random Access Memory\">RAM</abbr>. Vær oppmerksom på at bruk av swap er "
-"mye langsommere en <abbr title=\"Random Access Memory\">RAM</abbr>."
+"Hvis markeret, at de annoncerede DNS server adresser ignoreret"
 
 ""
+"Hvis routerens fysiske hukommelse er utilstrækkelig ubrugte data kan være midlertidigt"
+"Made i en swap-enhed, der giver mere tilgængelig <abbr title ="
+"\" Random Access Memory \ "> RAM </ abbr>. Bemærk, at brugen af ​​swap er"
+"Meget langsommere en <abbr title = \" Random Access Memory \ "> RAM </ abbr>."
 
-"Ignorer grensesnitt"
+""
+
+"Ignorer interface"
 
 "Ignorer oppslagsfil"
 
 "Firmware"
 
-"i"
+"I"
 
 
 ""
 
-"Tidsavbrudd etter innaktivitet"
+"Timeout efter inaktivitet"
 
-"Innkommende:"
+"Indgående"
 
-"Informasjon"
+"Information"
 
-"Oppstartskript"
+"Startscripts"
 
-"Oppstartsskript"
+"Startscripts"
 
-"Installer"
-
-""
-
-"Installer pakken %q"
-
-"Installer protokoll utvidelser..."
-
-"Installerte pakker"
-
-"Grensesnitt"
-
-"Grensesnitt Konfigurasjon"
-
-"Grensesnitt Oversikt"
-
-"Grensesnittet kobler til igjen..."
-
-"Grensesnittet slår seg av..."
+"Install"
 
 ""
 
-"Grensesnittet er ikke tilgjengelig eller er ikke tilknyttet."
+"Installer pakke% q"
 
-"Grensesnittet er koblet til igjen"
+"Installer protokol extensions ..."
 
-"Grensesnittet er slått av"
+"Installerede pakker"
 
-"Grensesnitt"
+"Interface"
+
+"Interface Configuration"
+
+"Interface Oversigt"
+
+"Grænsefladen forbinder til venstre ..."
+
+"Grænsefladen slukker ..."
+
+""
+
+"Interfacet er ikke til rådighed eller ikke fastgjort."
+
+"Interfacet er genoprettet"
+
+"Grænsefladen er slukket"
+
+"Interface"
 
 ""
 
-"Intern server feil"
+"Intern serverfejl"
 
-"Ugyldig"
+"Illegal"
 
-"Ugyldig VLAN ID gitt! Bare IDer mellom %d og %d er tillatt."
+"Ugyldig VLAN ID givet! Kun id'er mellem% d og% d er tilladt."
 
-"Ugyldig VLAN ID gitt! Bare unike ID'er er tillatt"
+"Ugyldig VLAN ID givet! Kun entydige id'er er tilladt"
 
-"Ugyldig brukernavn og/eller passord! Vennligst prøv igjen."
+"Ugyldigt brugernavn og / eller kodeord! Prøv igen."
 
-#, fuzzy
+#, Fuzzy
 
 ""
-"Det virker som du prøver å flashe med en firmware som ikke passer inn i "
-"flash-minnet, vennligst kontroller firmware filen!"
+"Det lader til, at du prøver at blinke en firmware, der ikke passer ind i"
+"Flash-hukommelse, skal du kontrollere firmware fil!"
 
-"Java Script kreves!"
+"JavaScript er påkrævet!"
 
-"Koble til nettverket"
+"Tilslutning til netværket"
 
-"Koble til nettverk: Innstilling"
+"Opret forbindelse til netværk: indstilling"
 
-"Koble til nettverk: Trådløs Skanning"
+"Map Network: Trådløst Scanning"
 
-"Behold innstillinger"
+"Keep indstillinger"
 
-"Kjerne Logg"
+"Nuclear Sign"
 
-"Kjerne Versjon"
+"Core Edition"
 
-"Nøkkel"
+"Nøgle"
 
-"Nøkkel #%d"
+"Key #% d"
 
-"Drep"
+"Kill"
 
 "L2TP"
 
-"L2TP Server"
+"L2TP server"
 
-"LCP ekko feil terskel"
+"LCP echo fejl tærskel"
 
-"LCP ekko intervall"
+"LCP ekko interval"
 
 "LLC"
 
-"Volumnavn"
+"Volume Name"
 
-"Språk"
+"Sprog"
 
-"Språk og Utseende"
-
-""
+"Sprog og udseende"
 
 ""
 
 ""
 
-"Gyldig leietid"
+""
 
-"<abbr title=\"Leasefile\">Leie-fil</abbr>"
+"Gyldig lease"
 
-"<abbr title=\"Leasetime\">Leietid</abbr>"
+"<Abbr title = \" Lease File \ "> Leje fil </ abbr>"
 
-"Gjenværende leietid"
+"<Abbr title = \" Lease Time \ "> Belægning </ abbr>"
 
-"La stå tomt for automatisk oppdagelse"
+"Resterende lease tid"
 
-"La stå tomt for å bruke gjeldene WAN adresse"
+"Lad stå tomt for auto-discovery"
 
-"Forklaring:"
+"Lad tomt for at bruge den aktuelle WAN linket"
 
-"Grense"
+"Forklaring"
+
+"Limit"
 
 ""
 
@@ -574,86 +571,86 @@
 
 
 ""
-"Liste med <abbr title=\"Domain Name System\">DNS</abbr> servere som "
-"forespørsler blir videresendt til"
+"Liste med <abbr title = \" Domain Name System \ "> DNS </ abbr> servere"
+"Anmodningerne fremsendes til"
 
 ""
 
-"Liste over domener hvor en tillater RFC1918 svar"
+"Liste over domæner, hvor en tilladelse RFC1918 svar"
 
-"Liste over verter som returneren falske NX domene resultater"
-
-""
-
-""
-"Lytt kun på det angitte grensesnitt, om ingen er angitt lyttes det på alle"
-
-"Lytte-port for innkommende DNS-spørring"
-
-"Belastning"
-
-"Belastning Gjennomsnitt"
-
-"Laster"
+"Liste over værter, der returnerer stigende falske NX domæne resultater"
 
 ""
 
-"Lokal IPv4 adresse"
+""
+"Hør kun på den angivne grænseflade, hvis der ikke er angivet lyttede det overhovedet"
 
-"Lokal IPv6 adresse"
+"Listening port til indgående DNS forespørgslen"
+
+"Load"
+
+"Load Average"
+
+"Loading"
 
 ""
 
-"Lokal Oppstart"
+"Local IPv4-adresse"
+
+"Local IPv6-adresse"
+
+""
+
+"Local Boot"
 
 "Lokal tid"
 
-"Lokalt domene"
+"Local domæne"
 
-#, fuzzy
-
-""
-"Lokalt domene spesifikasjon. Navn som passer dette domenet blir aldri "
-"videresendt, de blir kun løst av DHCP eller vertsfiler"
-
-"Lokalt domenesuffiks lagt til DHCP navn og vertsfil oppføringer"
-
-"Lokal server"
-
+#, Fuzzy
 
 ""
-"Lokaliser vertsnavn avhengig av subnett hvis flere IP-adresser er "
-"tilgjengelig"
+"Local domænenavn specifikation. Navne som passer dette domæne er aldrig"
+"Videresendt, de er kun løst DHCP eller Host filer"
 
-"Lokalisere søk"
+"Local domænesuffiks tilføjet DHCP navn og vært filposter"
+
+"Local Server"
+
 
 ""
+"Lokaliser værtsnavnet afhængigt af subnet, hvis flere IP-adresser er"
+"Tilgængelig"
 
-"Logg nivå"
-
-"Logg spørringer"
-
-"Logging"
-
-"Logg inn"
-
-"Logg ut"
+"Lokalisering search"
 
 ""
 
-"Laveste leide adresse, forskjøvet fra nettverks adressen."
+"Log niveau"
 
-"MAC-Adresse"
+"Log forespørgsler"
 
-"MAC-Addresse Filter"
+"Logning"
 
-"MAC-Filter"
+"Login"
 
-"MAC-Liste"
+"Logout"
 
 ""
 
-"MB/s"
+"Laveste leaset adresse, forskudt fra netværket adresse."
+
+"MAC Address"
+
+"MAC Address Filter"
+
+"MAC Filter"
+
+"MAC List"
+
+""
+
+"MB / s"
 
 ""
 
@@ -668,81 +665,81 @@
 
 ""
 
-"Maksimal hastighet"
+"Maksimal hastighed"
 
-"Maksimalt antall aktive DHCP leieavtaler"
+"Maksimalt antal aktiv DHCP lejemål"
 
-"Maksimalt antall samtidige DNS spørringer"
+"Maksimum antal samtidige DNS-forespørgsler"
 
-"Maksimal tillatt størrelse på EDNS.0 UDP-pakker"
+"Den maksimalt tilladte størrelse på EDNS.0 UDP-pakker"
 
-"Maksimalt antall sekunder å vente på at modemet skal bli klart"
+"Maksimalt antal af sekunder for modemmet skal være klar"
 
-"Maksimal holde tid"
+"Maximum holdetid"
 
-
-""
-
-"Maksimalt antall utleide adresser."
-
-"Mbit/s"
-
-"Minne"
-
-"Minne forbruk (%)"
-
-"Metrisk"
-
-"Minimum hastighet"
-
-"Minimum holde tid"
 
 ""
 
+"Maksimalt antal leasede adresser."
+
+"Mbit / s"
+
+"Memory"
+
+"Memory forbrug (%)"
+
+"Metric"
+
+"Minimum speed"
+
+"Minimum holdetid"
+
 ""
 
-"Mangler protokoll utvidelse for proto %q"
+""
 
-"Modus"
+"Manglende protokol udvidelse til proton% q"
+
+"Mode"
 
 ""
 
 "Modem"
 
-"Modem initiering tidsavbrudd"
+"Modem indledning timeout"
 
 "Monitor"
 
-"Monterings Enhet"
+"Montering Device"
 
-"Monterings Punkt"
+"Montering Point"
 
-"Monterings Punkter"
+"Montering punkter '
 
-"Monterings Punkter - Monterings Enhet"
+"Montering punkter - Montering Device"
 
-"Monterings Punkter - Swap Enhet"
+"Montering punkter - Swap Device"
 
-
-""
-"Monterings punkter definerer hvor lagrings enheter blir tilsluttet "
-"filsystemet"
 
 ""
-
-"Monterings alternativer"
-
-"Monterings punkt"
+"Montering punkter definere, hvordan lagringsenheder er tilsluttet"
+"Filsystem"
 
 ""
 
-"Monterte Filsystemer"
+"Montering muligheder"
 
-"Flytt ned"
+"Montering Point"
 
-"Flytt opp"
+""
 
-"Multicast hastighet"
+"monteret filsystemer"
+
+"Flyt ned"
+
+"Flyt op"
+
+"Multicast rate"
 
 "Multicast adresse"
 
@@ -756,158 +753,158 @@
 
 ""
 
-"NTP server kandidater"
+"NTP-server kandidater"
 
 ""
 
 "Navn"
 
-"Navnet til det nye grensesnittet"
+"Navnet på den nye grænseflade"
 
-"Navnet til det nye nettverket"
+"Navnet på det nye netværk"
 
-"Navigasjon"
+"Navigation"
 
-"Nettmaske"
+"Netmaske"
 
-"Nettverk"
+"Netværk"
 
-"Nettverks Verktøy"
+"Network Tools"
 
-"Nettverks boot image"
+"Network boot image"
 
-"Nettverk uten grensesnitt."
+"Netværk uden grænseflader."
 
-"Neste »"
+"Næste» "
 
-"Ingen DHCP server er konfigurert for dette grensesnittet"
-
-""
-
-"Ingen lenker i denne tabellen"
-
-"Ingen filer funnet"
-
-"Ingen informasjon tilgjengelig"
-
-"Ingen negative cache"
-
-"Ingen nettverk er konfigurert på denne enheten"
-
-"Ingen nettverksnavn spesifisert"
-
-"Ingen pakkelister tilgjengelig"
-
-"Ruteren er ikke passordbeskyttet!"
-
-"Ingen regler i denne tabellen"
-
-"Ingen sone tilknyttet"
-
-"Støy"
+"Ingen DHCP-serveren er konfigureret til denne grænseflade"
 
 ""
 
-"Støy:"
+"Ingen links i denne tabel"
+
+"Ingen filer fundet"
+
+"Ingen information tilgængelig"
+
+"Ingen negativ cache"
+
+"Ingen netværk er konfigureret på denne enhed"
+
+"Ingen Common Name angivet"
+
+"Ingen pakkelister til rådighed"
+
+"Routeren er ikke beskyttet med adgangskode!"
+
+"Ingen regler i denne tabel"
+
+"Ingen zone associeret"
+
+"Støj"
+
+""
+
+"Støj"
 
 ""
 
 ""
 
-"Ingen"
+"Nej"
 
 "Normal"
 
-"Ikke funnet"
+"Not Found"
 
 "Ikke tilknyttet"
 
-"Ikke tilkoblet"
+"Ikke tilsluttet"
 
-"Merk: Konfigurasjonsfiler vil bli slettet"
+"Bemærk: Konfiguration filer vil blive slettet"
 
 ""
 
-"Merk"
+"Bemærk"
 
 "Nslookup"
 
 "OK"
 
-"<abbr title=\"Open PacKaGe Management\">OPKG</abbr>-Konfigurasjon"
+"<Abbr title = \" Åbn pakke Management \ "> OPKG </ abbr> konfiguration"
 
 ""
 
 ""
 
-"Forsinkelse ved tilstand Av"
+"Forsinkelse i staten Off"
 
 ""
-"På denne siden kan du konfigurere nettverks grensesnittet. Du kan "
-"sammenkoble flere grensesnitt ved å hake av \"Sammekoble grensesnitt\" "
-"feltet og skrive inn navn på grensesnittene atskilt med mellomrom. Du kan "
-"også bruke <abbr title=\"Virtual Local Area Network\">VLAN</abbr> betegnelse "
-"<samp>INTERFACE.VLANNR</samp> (<abbr title=\"for eksempel\">f.eks</abbr>: "
-"<samp>eth0.1</samp>)."
+"På denne side kan du konfigurere netværkskortet. Du kan"
+"Interconnect flere grænseflader ved at tjekke \" Samme Connect grænseflade \ ""
+"Field og indtast navnene på grænseflader adskilt af mellemrum. Du kan"
+"Brug også <abbr title = \" Virtual Local Area Network \ "> VLAN </ abbr> betegnelsen"
+"<Samp> INTERFACE.VLANNR </ samp> (<abbr title = \" som \ "> eksempel </ abbr>"
+"<Samp> eth0.1 </ samp>)."
 
-"Forsinkelse ved tilstand -På-"
+"Forsinkelse i staten -PA-"
 
-"Enten Vertsnavn eller Mac-adresse må oppgis!"
+"Uanset om Værtsnavn eller Mac-adresse er påkrævet!"
 
-"Ett eller flere felt inneholder ugyldige verdier!"
-
-""
-
-"Ett eller flere obligatoriske felter har ingen verdi!"
-
-"Åpne liste..."
+"Et eller flere felter indeholder ugyldige værdier!"
 
 ""
 
-""
+"En eller flere krævede felter har ingen værdi!"
 
-"Innstilling endret"
-
-"Innstilling fjernet"
+"Åbn liste ..."
 
 ""
 
 ""
 
-"Alternativer"
+"Indstilling ændret"
 
-"Andre:"
-
-"Ut"
-
-"Ugående:"
-
-"Utendørs Kanaler"
+"Indstilling fjernet"
 
 ""
 
-"Overstyr MAC adresse"
+""
 
-"Overstyr MTU"
+"Indstillinger"
+
+"Andet"
+
+"Out"
+
+"Udgående"
+
+"Outdoor Channel"
 
 ""
 
-"Overstyr gatewayen mottatt av DHCP respons"
+"Override MAC-adresse"
+
+"Override MTU"
+
+""
+
+"Tilsidesæt gateway modtog DHCP svar"
 
 
 ""
-"Overstyr nettmaske sendt til klienter. Normalt er nettmasken beregnet ut fra "
-"subnettet som blir tildelt."
+"Tilsidesæt netmaske sendt til kunderne. Normalt netmaske beregnet ud fra"
+"Fordeles Subnet."
 
-"Overstyr tabellen som brukes for interne ruter"
+"Override tabel anvendes til interne ruter"
 
-"Oversikt"
+"Oversigt"
 
-"Eier"
+"Ejer"
 
-"PAP/CHAP passord"
+"PAP / CHAP password"
 
-"PAP/CHAP brukernavn"
+"PAP / CHAP brugernavn"
 
 "PID"
 
@@ -915,7 +912,7 @@
 
 "PPP"
 
-"PPPoA Innkapsling"
+"PPPoA Indkapsling"
 
 "PPPoATM"
 
@@ -923,7 +920,7 @@
 
 ""
 
-"PPtP"
+"PPTP"
 
 ""
 
@@ -931,65 +928,65 @@
 
 ""
 
-"Pakken libiwinfo er nødvendig!"
+"Pakken libiwinfo brug for!"
 
-"Pakkelistene er eldre enn 24 timer"
+"Pakke lister er ældre end 24 timer"
 
-"Pakkenavn"
+"Pakke navn"
 
-"Pakker"
+"pakker"
 
-"En del av sone %q"
+"En del af zone% q"
 
-"Passord"
+"Password"
 
-"Passord godkjenning"
+"Password autentificering"
 
-"Passord for privatnøkkel"
-
-""
-
-"Passordet er endret!"
-
-"Sti til CA-sertifikat"
-
-"Sti til klient-sertifikat"
-
-"Sti til privatnøkkel"
-
-"Sti til program som håndterer handling ved bruk av knapp"
+"Password til privat nøgle"
 
 ""
 
-""
+"Password ændret!"
 
-""
+"Sti til CA certifikat"
 
-"Maksimalt:"
+"Sti til klienten certifikat"
+
+"Sti til den private nøgle"
+
+"Sti til det program, der håndterer foranstaltningen ved brug af knappen"
 
 ""
 
 ""
 
-"Omstart nå"
+""
 
-"Foreta nullstilling"
+"Maximum"
 
-"Phy Hastighet:"
+""
 
-"Fysiske Innstillinger"
+""
+
+"Genstart nu"
+
+"Make nulstilling"
+
+"Phy Hastighed:"
+
+"Fysiske indstillinger"
 
 "Ping"
 
-"Pakker."
+"Pakker".
 
-"Skriv inn ditt brukernavn og passord."
+"Indtast dit brugernavn og kodeord."
 
-"Policy"
+"Politik"
 
 "Port"
 
-"Port status:"
+"Port status"
 
 ""
 
@@ -997,36 +994,36 @@
 
 
 ""
-"Annta at peer er uten forbindelse om angitt LCP ekko feiler, bruk verdi 0 "
-"for å overse feil"
+"Annt at peer er nogen forbindelse på angivne LCP ekko mislykkes, brugsværdi 0"
+"At ignorere fejl"
 
 ""
 
-"Hindrer klient-til-klient kommunikasjon"
+"Forhindrer klient-til-klient kommunikation"
 
-"Prism2/2.5/3 802.11b Trådløs Kontroller"
+"Prism2 / 2,5 / 3 802.11b Trådløse funktioner"
 
-"Fortsett"
+"Fortsæt"
 
-"Prosesser"
+"Processer"
 
 ""
 
 "Prot."
 
-"Protokoll"
+"Protokollen"
 
-"Protokoll familie"
+"Protokol familie"
 
-"Protokoll til det nye grensesnittet"
+"Protokol til den nye grænseflade"
 
-"Protokoll støtte er ikke installert"
+"Protokol understøttelse er ikke installeret"
 
-"Funger som NTP Server"
+"Lov som NTP-server"
 
-"Lag nytt nettverk"
+"Opret nyt netværk"
 
-"Pseudo Ad-Hoc (ahdemo)"
+"Pseudo Ad-hoc (ahdemo)"
 
 ""
 
@@ -1034,141 +1031,141 @@
 
 ""
 
-"RTS/CTS Terskel"
+"RTS / CTS Threshold"
 
 "RX"
 
 "RX Rate"
 
-"RaLink 802.11%s Trådløs Kontroller"
+"Ralink 802.11% s Trådløse funktioner"
 
-"Radius-Accounting-Port"
+"Radius Accounting Port"
 
-"Radius-Accounting-Secret"
+"Radius Accounting-Secret"
 
-"Radius-Accounting-Server"
+"Radius Regnskab Server"
 
-"Radius-Authentication-Port"
+"Radius Authentication Port"
 
-"Radius-Authentication-Secret"
+"Radius Authentication Secret"
 
-"Radius-Authentication-Server"
-
-
-""
-"Benytt <code>/etc/ethers</code> for å konfigurere <abbr title=\"Dynamic Host "
-"Configuration Protocol\">DHCP</abbr>-Server"
+"Radius Authentication Server"
 
 
 ""
-"Fjerne dette grensesnittet? Slettingen kan ikke omgjøres!\n"
-"Du kan miste kontakten med ruteren om du er tilkoblet via dette "
-"grensesnittet."
+"Tag <code> / etc / ethers </ code> for at konfigurere <abbr title = \" Dynamic Host "
+"Configuration Protocol \"> DHCP </ abbr> server på "
 
 
 ""
-"Fjerne dette trådløse nettverket? Slettingen kan ikke omgjøres!\n"
-"Du kan miste kontakten med ruteren om du er tilkoblet via dette nettverket."
-
-"Vil du nullstille alle endringer?"
-
-#, fuzzy
-
-""
-"Slå av dette nettverket ?\n"
-"Du kan miste kontakten med ruteren om du er tilkoblet via dette "
-"grensesnittet."
+"Fjernelse denne grænseflade? Denne handling kan ikke fortrydes! \ N"
+"Du kan miste kontakten med routeren, hvis du er forbundet via denne"
+"Interface".
 
 
 ""
-"Slå av dette grensesnittet \"%s\" ?\n"
-"Du kan miste kontakten med ruteren om du er tilkoblet via dette "
-"grensesnittet."
+"Fjernelse dette netværk? Sletningen kan ikke fortrydes! \ N"
+"Du kan miste kontakten med routeren, hvis du er tilsluttet via dette netværk."
 
-"Vil du endre protokoll?"
+"Hvis du ønsker at nulstille alle ændringer?"
 
-"Tilkoblinger Sanntid"
-
-"Grafer i sanntid"
-
-"Belastning Sanntid"
-
-"Trafikk Sanntid"
-
-"Trådløst i sanntid"
-
-"Binde beskyttelse"
-
-"Omstart"
-
-"Starter på nytt..."
-
-"Omstarter operativsystemet på enheten"
-
-"Motta"
-
-"Mottak antenne"
-
-"Koble til igjen"
-
-"Kobler til igjen"
-
-"Referanser"
-
-"Regulerende Domene"
-
-"Relay"
-
-"Relay bro"
-
-"Relay mellom nettverk"
-
-"Relay bro"
-
-"Ekstern IPv4 adresse"
-
-"Avinstaller"
-
-"Skann på nytt"
-
-"Erstatt oppføring"
-
-"Erstatt trådløs konfigurasjon"
+#, Fuzzy
 
 ""
+"Slå dette netværk? \ N"
+"Du kan miste kontakten med routeren, hvis du er forbundet via denne"
+"Interface".
+
+
+""
+"Sluk dette interface \"% s \ "\ n"
+"Du kan miste kontakten med routeren, hvis du er forbundet via denne"
+"Interface".
+
+"Sådan ændres protokollen?"
+
+"Connections Lev"
+
+"Grafer i realtid"
+
+"Load Lev"
+
+"Traffic Live"
+
+"Trådløs i realtid"
+
+"Binding beskyttelse"
+
+"Genstart"
+
+"Genstart ..."
+
+"Genstarter operativsystemet på enheden"
+
+"Modtag"
+
+"Modtagelse antenne"
+
+"Tilslut"
+
+"Opretter forbindelse"
+
+"Referencer"
+
+"Regulatory Domain"
+
+"Relæ"
+
+"Relæ bridge"
+
+"Relæ mellem netværk"
+
+"Relæ bridge"
+
+"Remote IPv4-adresse"
+
+"Uninstall"
+
+"Rescan"
+
+"Erstat entry"
+
+"Erstat trådløse konfiguration"
 
 ""
 
 ""
 
-"Er nødvendig for noen nettleverandører, f.eks Charter med DOCSIS 3"
+""
+
+"Er nødvendigt for nogle internetudbydere, såsom Charter med DOCSIS 3"
 
 
 ""
 
-"Nullstill"
+"Reset"
 
-"Nullstill Tellere"
+"Reset Counters"
 
-"Nullstill til standard innstilling"
+"Reset til standard"
 
-"Oppslag og Vertsfiler"
+"Opslag og Host filer"
 
-"<abbr title=\"Resolvefile\">Oppslagsfil</abbr>"
+"<Abbr title = \" Resolvefile \ "> Oppslagsfil </ abbr>"
 
-"Omstart"
+"Genstart"
 
-"Omstart Brannmur"
+"Genstart Firewall"
 
-"Gjenopprett sikkerhetskopi"
+"Gendan sikkerhedskopi"
 
-"Vis/Skjul passord"
+"Vis / Skjul password"
 
-"Tilbakestill"
+"Reset"
 
 "Rot"
 
-"Rot katalog for filer gitt fra TFTP"
+"Rot mappe for filer givet fra TFTP"
 
 ""
 
@@ -1176,29 +1173,21 @@
 
 ""
 
-"Ruter Passord"
+"Router Password"
 
 "Ruter"
 
 
 ""
-"Ruter, angir hvilket nettverksgrensesnitt og hvilken gateway som brukes for "
-"å nå et gitt nettverk eller vert."
+"Ruter, angive, hvilke netværk interface og porten bruges til"
+"For at nå et givet net eller vært."
 
-"Kjør filsystem sjekk før montering av enheten"
+"Kør filsystem kontrol før montering af enheden"
 
-"Kjør filsystem sjekk"
-
-""
-
+"Kør filsystem kontrol"
 
 ""
 
-""
-
-""
-
-"SSH Tilgang"
 
 ""
 
@@ -1206,70 +1195,78 @@
 
 ""
 
-"SSH-Nøkler"
+"SSH adgang"
+
+""
+
+""
+
+""
+
+"SSH-nøgler"
 
 "SSID"
 
-"Lagre"
+"Gem"
 
-"Lagre & Aktiver"
+"Save & Aktivér"
 
-"Lagre &#38; Aktiver"
+"Save & Aktivér"
 
-"Skann"
+"Scan"
 
-"Planlagte Oppgaver"
+"Planlagte Opgaver"
 
-"Seksjon lagt til"
+"Afdeling tilføjet"
 
-"Seksjon fjernet"
+"Afdeling fjernet"
 
-"Se \"mount\" manpage for detaljer"
-
-
-""
-"Send LCP ekko forespørsler etter angitt intervall i sekunder, dette er kun "
-"gjeldene dersom feilterskelen er nådd"
-
-"Separerte Klienter"
-
-"Separert WDS"
-
-"Server Innstillinger"
-
-""
+"Watch \" mount \ "manpage for detaljer"
 
 
 ""
+"Send LCP ekko anmodninger efter det angivne interval i sekunder, det er bare"
+"Gælder hvis fejlen tærsklen er nået"
+
+"Adskilt klienter"
+
+"Delprodukter WDS"
+
+"Server Settings"
 
 ""
 
-"Tjeneste navn"
 
-"Tjeneste type"
+""
+
+""
+
+"Tjenesten navn"
+
+"Service type"
 
 "Tjenester"
 
-#, fuzzy
-"Oppsett tidssynkronisering"
+#, Fuzzy
+"Indstil tid synkronisering"
 
-"Oppsett DHCP server"
-
-""
+"Setup DHCP server"
 
 ""
 
-"Vis gjeldende liste med sikkerhetskopifiler"
+""
 
-"Slå av dette grensesnittet"
+"Se den aktuelle liste over backup-filer"
 
-"Slå av dette nettverket"
+"Slå denne grænseflade"
+
+"Slå dette netværk"
 
 "Signal"
 
 ""
 
-"Signal:"
+"Signal"
 
 "Størrelse"
 
@@ -1277,73 +1274,73 @@
 
 "Gå videre"
 
-"Gå til innhold"
+"Gå til indhold"
 
-"Gå til navigasjon"
+"Gå til navigationen"
 
 "Slot tid"
 
-"Programvare"
+"Software"
 
 ""
 
-"Noen felt er ugyldige, kan ikke lagre verdier!"
+"Nogle felter er ugyldige, kan ikke gemme værdier!"
 
-"Beklager, objektet du spurte om ble ikke funnet."
+"Undskyld, det objekt, du har anmodet om blev ikke fundet."
 
-"Beklager, det oppstod en uventet feil på serveren."
+"Desværre, der var en uventet serverfejl."
 
-#, fuzzy
+#, Fuzzy
 
 ""
-"Beklager, men finner ikke støtte for 'sysupgrade', ny firmware må derfor "
-"flashes manuelt. Viser til OpenWrt wiki for installering av firmare på "
-"forskjellige enheter."
+"Undskyld, men dette er ikke understøttet" sysupgrade «, ny firmware skal derfor"
+"Blinkede manuelt. Se wiki installation OpenWrt firmare på"
+"Forskellige enheder."
 
 "Sortering"
 
-"Kilde"
+"Source"
 
 ""
 
-"Spesifiserer knappens handlemønster"
+"Angiver knappens handel mønster"
 
-"Hvor lagrings enheten blir tilsluttet filsystemet (f.eks. /mnt/sda1)"
+"Hvis lagerenheden er tilsluttet filsystemet (f.eks. / Mnt / sda1)"
 
-"Angir den lyttende porten for denne <em>Dropbear</em> instansen"
+"Angiver lytte port til dette <em> Drop Bjørn </ em> enhed"
 
 
 ""
-"Angir maksimalt antall feilede ARP forespørsler før verter ansees frakoblet"
+"Indstiller det maksimale antal mislykkede ARP anmodninger før værter betragtes afbrudt"
 
 
-"Angir maksimalt antall sekunder før verter ansees som frakoblet"
+"Indstiller det maksimale antal sekunder, før værterne betragtes afbrudt"
 
-"Angi krypteringsnøkkelen her."
+"Indtast krypteringsnøglen her."
 
 "Start"
 
 "Start prioritet"
 
-"Oppstart"
+"Startup"
 
-"Statiske IPv4 Ruter"
+"Statisk IPv4 Routes"
 
-"Statiske IPv6 Ruter"
+"Static IPv6 router"
 
-"Statiske Leier"
+"Static Leier"
 
-"Statiske Ruter"
+"statiske ruter"
 
-"Statisk WDS"
+"Static WDS"
 
 "Statisk adresse"
 
 
 ""
-"Statisk leieavtaler brukes til å tildele faste IP adresser og symbolske "
-"vertsnavn til DHCP klienter. Dette er nødvendig om grensesnittet ikke er "
-"dynamisk konfigurert og kun klienter med dhcp leieavtale får IP."
+"Statiske lejemål bruges til at tildele fast IP-adresser og symbolske"
+"Værtsnavn til DHCP-klienter. Dette er nødvendigt, hvis grænsefladen er ikke"
+"Dynamisk konfigureret og kun klienter med dhcp lease får IP."
 
 "Status"
 
@@ -1359,254 +1356,252 @@
 
 ""
 
-"Swap Enhet"
+"Swap Device"
 
-"Svitsj"
+"Switching"
 
-"Svitsj %q"
+"Skifte% q"
 
-"Svitsj %q (%s)"
+"Skifte% q (% s)"
 
-
-""
 
 ""
 
-"Svitsj protokoll"
+""
 
-"Synkroniser med nettleser"
+"Skift protokollen"
 
-"Synkroniser..."
+"Synkroniser med Web Browser"
+
+"Synkroniser ..."
 
 "System"
 
-"System Logg"
+"System Log"
 
-"System Egenskaper"
+"Egenskaber for system"
 
-"System logg buffer størrelse"
+"System log buffer størrelse"
 
-"TCP:"
+"TCP"
 
-"TFTP Innstillinger"
+"TFTP-indstillinger"
 
-"TFTP server roten"
+"TFTP-server root"
 
 "TX"
 
 "TX rate"
 
-"Tabell"
+"Tabel"
 
 "Mål"
 
 ""
 
-"Avslutte"
+"Afslutning"
 
-#, fuzzy
-
-""
-"<em>Enhet Konfigurasjon</em> seksjonen omhandler innstillingene av den "
-"trådløse enheten som kanaler, sende stryke eller antenne valg. Disse "
-"innstillingene er delt mellom alle definerte trådløse nettverk opprettet "
-"utfra denne enhet. (om den trådløse enheten støtter mulit-SSID). Nettverks "
-"innstillinger som kryptering eller kanaler er gruppert i <em>Grensesnitt "
-"Konfigurasjon</em>."
-
+#, Fuzzy
 
 ""
-"Pakken <em>libiwinfo-lua</em> er ikke installert. Du må installere denne "
-"pakken for å kunne konfigurerer trådløse enheter!"
+"<Em> Device Configuration </ em> afsnit diskuteres indstillingerne for"
+"Trådløse enhed kanaler, sende jern eller antenne valg. Disse"
+"Indstillinger deles mellem alle definerede trådløst netværk skabt"
+"Grundlaget for denne enhed. (Hvis den trådløse enhed understøtter mulit-SSID). Network"
+"Indstillinger såsom kryptering eller kanaler er grupperet i <em> Interface"
+"Konfiguration </ em>."
 
 
 ""
-
-
-""
-"IPv6 prefikset tilordnet mot leverandør, ender som regel med <code>::</code>"
-
-
-""
-"Gyldige tegn er: <code>A-Z</code>, <code>a-z</code>, <code>0-9</code> og "
-"<code>_</code>"
-
-""
-
-
-""
-"Filenheten til partisjonen eller minnet (<abbr title=\"for eksempel\">f.eks."
-"</abbr> <code>/dev/sda1</code>)"
-
-
-""
-"Filsystemet som ble brukt til å formatere partisjonen eller minnet. (<abbr "
-"title=\"for eksempel\">f.eks.</abbr> <samp><abbr title=\"Third Extended "
-"Filesystem\">ext3</abbr></samp>)"
-
-
-""
-"Firmwaren ble lastet opp. Nedenfor er kontrollsum og filstørrelse oppført, "
-"sammenlign dem med den opprinnelige filen for å sikre dataintegriteten.<br /"
-"> Klikk \"Fortsett\" nedenfor for å starte flash prosedyren."
-
-"Følgende endringer er foretatt"
-
-"Følgende endringer er forkastet"
-
-"Følgende regler er aktiver på systemet."
-
-"Det angitte nettverksnavnet er ikke unikt"
-
-#, fuzzy
-
-""
-"Maskinvaren er ikke multi-SSID kapabel og den ekisterende konfigurasjonen "
-"vil bli erstattet om du fortsetter."
-
-
-"Lengden IPv4 prefikset i bits, resten brukt i IPv6-adresser."
-
-"Lengden på IPv6 prefikset i bits"
-
-""
-"Nettverks portene på ruteren kan kombineres til flere <abbr title=\"Virtual "
-"Local Area Network\">VLAN</abbr>s der datamaskiner kan kommunisere direkte "
-"med hverandre. <abbr title=\"Virtual Local Area Network\">VLAN</abbr>s "
-"brukes ofte for å skille ulike nettverk segmenter. Det er vanlig og ha en "
-"Uplink port for tilkobling til større nettverk som internett og andre porter "
-"til lokalt nettverk."
-
-"Den valgte protokoll må ha en enhet tilknyttet"
-
-""
-
-
-""
-"Systemet sletter konfigurasjonspartisjonen nå, enheten vil bli startet på "
-"nytt når dette er utført."
-
-#, fuzzy
-""
-"Systemet flashes nå.<br /> IKKE SLÅ AV ENHETEN!<br /> Vent noen minutter før "
-"du prøver å koble til igjen. Det kan være nødvendig å fornye ip-adressen til "
-"datamaskinen din for å nå enheten på nytt. (avhengig av innstillingene dine)"
+"Pakken <em> libiwinfo-cap </ em> ikke er installeret. Du skal installere denne"
+"Pakke til at konfigurere trådløse enheder!"
 
 
 ""
 
 
 ""
-"Den opplastede programvaren er av et format som ikke støttes. Sørg for at du "
-"velger det generelle firmware-bildet for din plattform."
-
-"Det er ingen aktive leieavtaler."
-
-"Det finnes ingen endringer som kan utføres!"
-
-"Det finnes ingen endriger å reversere!"
-
-"Det finnes ingen endringer!"
+"IPv6 præfiks tildelt leverandøren, som regel ender med <code> :: </ code>"
 
 
 ""
-"Det er ingen enhet som er tilordnet ennå, vennligst legg til en "
-"nettverksenhet i \"Fysiske Innstillinger\""
-
-
-""
-"Det er ikke satt noe passord på denne ruter. Vennligst konfigurer et "
-"passord, dette beskytter webgrensesnittet og aktiverer SSH."
-
-"Dette IPv4 adressen til relayet"
-
+"Gyldige tegn er: <code> A-Z </ code>, <code> az </ code>, <code> 0-9 </ code> og"
+"<Kode> _ </ code>"
 
 ""
 
 
 ""
-"Dette er en liste med 'shell glob patterns' for å matche filer og kataloger "
-"som skal inkluderes under sysupgrade. Endrede filer i /etc/config/ og "
-"enkelte andre konfigurasjoner blir automatisk bevart."
+"File Af partition eller hukommelse (<abbr title = \" som \ "> for eksempel."
+"</ Fork> <code> / dev / sda1 </ code>)"
+
+
+""
+"Filsystemet blev brugt til at formatere partitionen eller hukommelse. (<Abbr"
+"Titel = \" som \ "> for eksempel. </ Fork> <samp> <abbr title = \" Tredje Udvidet "
+"File System \"> ext3 </ abbr> </ samp>) "
+
+
+""
+"Firmwaren blev uploadet. Nedenfor er checksum og filstørrelse på listen,"
+"Sammenlign dem med den oprindelige fil for at sikre dataintegritet. <Br /"
+"> Klik \" Fortsæt \ "nedenfor for at starte flash procedure."
+
+"Følgende ændringer er foretaget"
+
+"Følgende ændringer er afvist"
+
+"Følgende regler gør det muligt for systemet."
+
+"Den angivne netværksnavn er ikke enestående"
+
+#, Fuzzy
+
+""
+"Hardwaren er ikke multi-SSID stand og existant konfiguration"
+"Vil blive erstattet, hvis du fortsætter."
+
+
+"Længden IPv4 præfiks i bit, resten anvendes i IPv6-adresser."
+
+"Længden af ​​IPv6 præfiks i bit"
+
+""
+"Netværk porte på routeren kan kombineres til flere <abbr title = \" Virtual "
+"Local Area Network \"> VLAN </ abbr> s, hvor computere kan kommunikere direkte "
+"Med hinanden. <Abbr title = \" Virtual Local Area Network \ "> VLAN </ abbr> s"
+"Anvendes ofte til at adskille forskellige netværk segmenter. Det er almindelig og har en"
+"Uplink port til tilslutning til større netværk som internettet og andre havne"
+"Det lokale netværk."
+
+"Den valgte protokol skal have en anordning knyttet"
+
+""
+
+
+""
+"Systemet sletter konfigurationen partition nu, vil enheden blive startet på"
+"Igen, når dette er gjort."
+
+#, Fuzzy
+""
+"Systemet blinker nu. <br /> Ikke slukke! <br /> Vent et par minutter før"
+"Man forsøger at oprette forbindelse igen. Det kan være nødvendigt at forny IP-adresse"
+"Din computer for at nå enheden. (Afhængigt af dine indstillinger)"
 
 
 ""
 
 
 ""
-"Dette er innholdet i /etc/rc.local. Her kan du legge til egne kommandoer som "
-"blir startet ved slutten av boot sekvensen. (før 'exit 0')"
+"Den uploadede software er et ikke-understøttet format. Sørg for at du"
+"Vælg det overordnede firmware billede til din platform."
+
+"Der er ingen aktive lejemål."
+
+"Der er ingen ændringer, der kan udføres!"
+
+"Der er ingen ændringer at vende!"
+
+"Der er ingen ændringer!"
 
 
 ""
-"Dette er den lokale endepunkt adressen som ble tildelt av tunnel 'broker', "
-"adressen ender vanligvis med <code>:2</code>"
+"Der er ingen enhed endnu tildelt, tilføjer du"
+"Netværk enhed i \" Fysiske Settings \ ""
 
 
 ""
-"Dette er den eneste <abbr title=\"Dynamic Host Configuration Protocol"
-"\">DHCP</abbr> server i det lokale nettverket"
+"Det er ikke angive en adgangskode på denne rute. Venligst konfigurere en"
+"Password, der beskytter web interface og aktivere SSH."
+
+"Dette IPv4-adressen på relæet"
+
+
+""
+
+
+""
+"Dette er en liste af 'shell glob mønstre' at matche filer og mapper"
+"For at blive optaget under sysupgrade. Ændrede filer i / etc / config / og"
+"Visse andre konfigurationer automatisk bevaret."
+
+
+""
+
+
+""
+"Dette er karakteren af ​​/etc/rc.local. Du kan tilføje dine egne kommandoer som"
+"Gets startede i slutningen af ​​startrækkefølgen. (Før 'exit 0')"
+
+
+""
+"Dette er den lokale endpoint adresse, der blev tildelt af tunnelen" mægler ","
+"Address som regel ender med <code> 2 </ code>"
+
+
+""
+"Dette er den eneste <abbr title = \" Dynamic Host Configuration Protocol "
+"\"> DHCP </ abbr> server på det lokale netværk "
 
 ""
 
 
 ""
 
-"Dette er systemets crontab, hvor planlagte oppgaver kan defineres."
+"Dette er det system crontab hvori kan defineres planlagte opgaver."
 
 
 ""
-"Dette er vanligvis adressen til nærmeste PoP som drives av tunell 'broker'"
+"Dette er normalt adressen på det nærmeste PoP drives af tunnelering" mægler ""
 
 
-"Denne listen gir en oversikt over kjørende prosesser og deres status."
-
-""
-"Denne siden gir mulighet for å definerte egne knappers handlingsmønster"
+"Denne liste viser en oversigt over kørende processer og deres status."
 
 ""
-"Denne siden gir en oversikt over gjeldende aktive nettverkstilkoblinger."
+"Denne side giver dig mulighed for at skræddersy din egen knap handling mønster"
 
-"Denne seksjonen inneholder ennå ingen verdier"
+""
+"Denne side giver et overblik over de aktuelt aktive netværksforbindelser."
 
-"Tidssynkronisering"
+"Dette afsnit indeholder ingen værdier"
 
-"Tiden Synkroniseringen er ikke konfigurert ennå."
+"Tidssynkroniserings"
 
-"Tidssone"
+"Tidssynkroniserings er ikke konfigureret endnu."
+
+"Time Zone"
 
 
 ""
-"For å gjenopprette konfigurasjonsfiler, kan du her laste opp et backup arkiv "
-"som ble opprettet tidligere."
+"For at gendanne konfigurationsfiler, her uploade en backup arkiv"
+"Det blev oprettet tidligere."
 
 ""
 
-"Totalt Tilgjengelig"
+"Samlet tilgængelig"
 
 "Traceroute"
 
-"Trafikk"
+"Traffic"
 
-"Overføring"
+"Transmission"
 
-"Overførings rate"
+"Transmission rate"
 
-"Sende"
+"Sender"
 
-"Sende styrke"
+"Afsendelse styrke"
 
-"Sende Antenne"
+"Afsendelse Antenne"
 
-"Utløser"
+"Trigger"
 
-"Utløsende Tilstand"
+"Udløsning Condition"
 
-"Tunnel ID"
+"Tunnel-id"
 
-"Tunnel grensesnitt"
-
-""
+"Tunnel Interfaces"
 
 ""
 
@@ -1614,19 +1609,21 @@
 
 ""
 
-"Turbo Modus"
+""
 
-"Tx-Styrke"
+"Turbo Mode"
+
+"Tx Strength"
 
 "Type"
 
-"UDP:"
+"UDP"
 
 "Kun UMTS"
 
-"UMTS/GPRS/EV-DO"
+"UMTS / GPRS / EV-DO"
 
-"USB Enhet"
+"USB-enhed"
 
 "UUID"
 
@@ -1634,131 +1631,131 @@
 
 ""
 
-"Ukjent"
+"Ukendt"
 
-"Ukjent feil, passordet ble ikke endret!"
+"Ukendt fejl, blev password ikke ændret!"
 
-"Uhåndtert"
-
-""
-
-"Ulagrede Endringer"
-
-"Protokoll type er ikke støttet."
-
-"Oppdater lister"
-
-
-""
-"Last her opp en sysupgrade-kompatibel firmware som skal erstatte den "
-"kjørende firmware. Merk av \"Behold innstillinger\" for å beholde gjeldene "
-"konfigurasjon. (en OpenWrt kompatibel firmware er nødvendig)"
-
-"Last opp arkiv..."
-
-"Opplastet Fil"
-
-"Oppetid"
-
-"Bruk <code>/etc/ethers</code>"
-
-"Bruk DHCP gateway"
-
-"Bruk DNS servere annonsert av peer"
-
-"Bruk ISO/IEC 3166 alpha2 landskoder."
-
-"Bruk MTU på tunnel grensesnitt"
-
-"Bruk TTL på tunnel grensesnitt"
+"Uhåndterligt"
 
 ""
 
-""
+"Gemte ændringer"
 
-"Bruk kringkasting flagg"
+"Protokol type er ikke understøttet."
 
-""
+"Opdater lister"
 
-"Bruk egendefinerte DNS servere"
-
-"Bruk standard gateway"
-
-"Bruk gateway metrikk"
-
-"Bruk rutingtabellen"
 
 ""
-"Bruk <em>Legg til</em> knappen får å legge til en leieavtale. <em>MAC-"
-"Adresse</em> identifiserer verten, <em>IPv4-Adresse</em> angir hvilken "
-"statisk IP adresse som skal brukes og <em>Vertsnavn</em> blir symbolsk "
-"tilknyttet den anmodende verten."
+"Sidste her en sysupgrade kompatibel firmware, der skal erstatte den"
+"Kører firmware. Vælg \" Bevar indstillinger \ "til at holde nuværende"
+"Konfiguration. (Én OpenWrt kompatibel firmware kræves)"
 
-"Brukt"
+"Upload arkiv ..."
 
-"Brukte Nøkler"
+"Uploaded File"
+
+"Uptime"
+
+"Brug <code> / etc / ethers </ code>"
+
+"Brug DHCP gateway"
+
+"Brug DNS-servere annonceret af peer"
+
+"Brug ISO / IEC 3166 alpha2 landekoder."
+
+"Brug MTU på tunnel grænseflader"
+
+"Brug TTL på Tunnel Interfaces"
 
 ""
 
 ""
 
-"Brukernavn"
+"Brug broadcast flag"
+
+""
+
+"Brug brugerdefinerede DNS-servere"
+
+"Brug standardgateway"
+
+"Brug gateway metrisk"
+
+"Brug routing table"
+
+""
+"Brug <em> Tilføj </ em> knappen tilføjer en lejekontrakt. <Em> MAC"
+"Adresse </ em> identificerer værten, <em> IPv4-adresse </ em> angiver"
+"Statisk IP-adresse til at bruge og <em> Host Navn </ em> vil være symbolsk"
+"Tilknyttet til den anmodende vært."
+
+"Brugt"
+
+"Used tasterne"
+
+""
+
+""
+
+"Brugernavn"
 
 "VC-Mux"
 
 ""
 
-"VLANs på %q"
+"VLAN på% q"
 
-"VLANs på %q (%s)"
-
-""
-
-""
-
-"VPN server"
+"VLAN på% q (% s)"
 
 ""
 
 ""
 
-""
-
-""
-
-"Leverandør klasse som sendes ved DHCP spørring"
+"VPN-server"
 
 ""
 
 ""
 
-"Bekreft"
+""
 
-"Versjon"
+""
+
+"Leverandør klasse sendt af DHCP forespørgsel"
+
+""
+
+""
+
+"Bekræft"
+
+"Version"
 
 "WDS"
 
-"WEP åpent system"
+"WEP åbent system"
 
-"WEP delt nøkkel"
+"WEP delt nøgle"
 
-"WEP passord"
+"WEP Password"
 
-"WMM Modus"
+"WMM Mode"
 
-"WPA passord"
-
-
-""
-"WPA-Kryptering krever at wpa_supplicant (for klient-modus) eller hostapd "
-"(for AP og ad-hoc-modus) er installert."
+"WPA password"
 
 
 ""
+"WPA-kryptering kræver wpa_supplicant (for klient-tilstand) eller hostapd"
+"(AP og ad-hoc-tilstand) er installeret."
 
-"Venter på at endringer utføres..."
 
-"Venter på at kommando fullføres..."
+""
+
+"Venter på de ændringer, der udføres ..."
+
+"Venter på kommandoen afsluttet ..."
 
 ""
 
@@ -1772,129 +1769,125 @@
 
 ""
 
-"Trådløs"
+"Wireless"
 
-"Trådløs Tilslutning"
+"Trådløs forbindelse"
 
-"Trådløst Nettverk"
+"Trådløst netværk"
 
-"Trådløs Oversikt"
+"Trådløs Summary"
 
-"Trådløs Sikkerhet"
+"Wireless Security"
 
-"Trådløs er deaktiver eller ikke tilknyttet"
+"Trådløs er deaktiveret eller ikke tilsluttet"
 
-"Trådløst starter på nytt..."
+"Trådløse genstarter ..."
 
-"Trådløst nettverk er deaktivert"
+"Wireless er deaktiveret"
 
-"Trådløst nettverk er aktivert"
+"Wireless er aktiveret"
 
-"Trådløst startet på nytt"
+"Trådløs genstartet"
 
-"Trådløst er slått av"
+"Wireless er slukket"
 
-"Skriv mottatte DNS forespørsler til syslog"
-
-""
-
-"XR Støtte"
-
-
-""
-"Her kan du aktivere eller deaktivere installerte oppstartsskript. Enheten må "
-"omstartes før endringene blir tatt i bruk.<br /><strong>Advarsel: Om du "
-"deaktiverer nødvendige init skript som f.eks. \"nettverk\", kan enheten bli "
-"utilgjengelig! </strong>"
-
-
-""
-"Du må aktivere Java Script i nettleseren din ellers vil ikke LuCI fungere "
-"skikkelig."
-
+"Type modtaget DNS-anmodninger til syslog"
 
 ""
 
-"enhver"
-
-"auto"
-
-""
-
-"baseT"
-
-"brokoblet"
-
-"opprett:"
-
-"Oppretter en bro mellom angitte grensesnitt"
-
-"dB"
-
-"dBm"
-
-"Deaktiver"
-
-""
-
-"utgått"
+"XR support"
 
 
 ""
-"filen der gitt <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</"
-"abbr>-leier vil bli lagret"
+"Her kan du aktivere eller deaktivere installerede startscripts. Enheden skal"
+"Genstartet før der gennemføres de ændringer <br /> <strong> Advarsel:. Hvis du"
+"Deaktiver væsentlige init scripts ud. \" Network \ ", kan enheden være"
+"Ikke tilgængelig! </ Strong>"
 
-"videresend"
 
-"full-dupleks"
+""
+"Du skal aktivere JavaScript i din browser ellers ikke vil arbejde Lucia"
+"Korrekt".
 
-"halv-dupleks"
-
-"Hjelp"
-
-"skjult"
 
 ""
 
-"Dersom målet er et nettverk"
+"Alle"
 
-"inndata"
-
-"kB"
-
-"kB/s"
-
-"kbit/s"
-
-"lokal <abbr title=\"Domain Navn System\">DNS</abbr>-fil"
+"Auto"
 
 ""
 
+"BaseT"
+
+"Bridged"
+
+"Bevarer"
+
+"Opretter en bro mellem den angivne grænseflade"
+
+"DB"
+
+"DBm"
+
+"Disable"
+
 ""
 
-"nei"
+"Udløbet"
 
-"ingen forbindelse"
 
-"ingen"
+""
+"File hvor givet <abbr title = \" Dynamic Host Configuration Protocol \ "> DHCP </"
+"Fork> -leier vil blive gemt"
+
+"Frem"
+
+"Full-duplex"
+
+"Half-duplex"
+
+"Hjælp"
+
+"Skjult"
 
 ""
 
-"av"
+"Hvis målet er et netværk"
 
-"på"
+"Input"
 
-"åpen"
+"KB"
+
+"KB / s"
+
+"Kbit / s"
+
+"Local <abbr title = \" Domain Name System \ "> DNS </ abbr> file"
 
 ""
 
 ""
 
-"rutet"
+"Nej"
+
+"Ingen forbindelse"
+
+"Ingen"
+
+""
+
+"Fra"
+
+"On"
+
+"Åbn"
 
 ""
 
 ""
+
+"Routed"
 
 ""
 
@@ -1904,18 +1897,22 @@
 
 ""
 
-"tagget"
+""
 
-"ukjent"
+""
 
-"ubegrenset"
+"Tagged"
 
-"uspesifisert"
+"Ukendt"
 
-"uspesifisert --eller-- opprett:"
+"Ubegrænset"
 
-"utagget"
+"Uspecificeret"
 
-"ja"
+"Uspecificeret --ELLER-- fastholder:"
 
-"« Tilbake"
+"Utagget"
+
+"Ja"
+
+"" Tilbage "
