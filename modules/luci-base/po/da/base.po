@@ -107,8 +107,8 @@ msgid ""
 "<abbr title=\"maximal\">Max.</abbr> <abbr title=\"Dynamic Host Configuration "
 "Protocol\">DHCP</abbr> leases"
 msgstr ""
-"<abbr title=\"Maksimal\">Maks.</abbr> <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</"
-"abbr>-leases"
+"<abbr title=\"Maksimal\">Maks.</abbr> <abbr title=\"Dynamic Host Configuration "
+Protocol\">DHCP</abbr>-leases"
 
 msgid ""
 "<abbr title=\"maximal\">Max.</abbr> <abbr title=\"Extension Mechanisms for "
@@ -409,8 +409,7 @@ msgid "Auto Refresh"
 msgstr "Automatisk opdatering"
 
 msgid "Automatic"
-msgstr
- "Automatisk"
+msgstr "Automatisk"
 
 msgid "Automatic Homenet (HNCP)"
 msgstr ""
@@ -893,8 +892,7 @@ msgstr ""
 msgid "Do not cache negative replies, e.g. for not existing domains"
 msgstr "Ikke cache negative svar, f.eks for ikke eksisterende domener"
 
-msgid
- "Do not forward requests that cannot be answered by public name servers"
+msgid "Do not forward requests that cannot be answered by public name servers"
 msgstr ""
 "Ikke videresend forespørsler som ikke kan besvares med offentlige "
 "navneservere"
@@ -1392,8 +1390,7 @@ msgstr "IPv6 prefiks"
 msgid "IPv6 prefix length"
 msgstr "IPv6 prefikslengde"
 
-msgid
- "IPv6 routed prefix"
+msgid "IPv6 routed prefix"
 msgstr ""
 
 msgid "IPv6-Address"
@@ -1851,8 +1848,7 @@ msgid "Mirror source port"
 msgstr ""
 
 msgid "Missing protocol extension for proto %q"
-msgstr "Mangler
- protokoll utvidelse for proto %q"
+msgstr "Mangler protokoll utvidelse for proto %q"
 
 msgid "Mode"
 msgstr "Modus"
@@ -2368,8 +2364,7 @@ msgid "Radius-Accounting-Port"
 msgstr "Radius-Accounting-Port"
 
 msgid "Radius-Accounting-Secret"
-msgstr
- "Radius-Accounting-Secret"
+msgstr "Radius-Accounting-Secret"
 
 msgid "Radius-Accounting-Server"
 msgstr "Radius-Accounting-Server"
@@ -2830,8 +2825,7 @@ msgstr "Send"
 msgid "Suppress logging"
 msgstr ""
 
-msgid
- "Suppress logging of the routine operation of these protocols"
+msgid "Suppress logging of the routine operation of these protocols"
 msgstr ""
 
 msgid "Swap"
@@ -3133,8 +3127,7 @@ msgstr "Dette er systemets crontab, hvor planlagte oppgaver kan defineres."
 msgid ""
 "This is usually the address of the nearest PoP operated by the tunnel broker"
 msgstr ""
-"Dette er vanligvis adressen
- til nærmeste PoP som drives av tunell 'broker'"
+"Dette er vanligvis adressen til nærmeste PoP som drives av tunell 'broker'"
 
 msgid ""
 "This list gives an overview over currently running system processes and "
@@ -3625,8 +3618,7 @@ msgstr "av"
 msgid "on"
 msgstr "på"
 
-msgid
- "open"
+msgid "open"
 msgstr "åpen"
 
 msgid "overlay"
